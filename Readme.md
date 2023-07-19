@@ -1,0 +1,75 @@
+
+
+
+## Outline
+
+- Intro
+	- [[How to learn stuff you have no business learning]]
+- Why should you [[Learning in public|Learn in public]]?
+	- You get things done when you're held [[Accountability|accountable]]
+		- Making [[sources/Book/Indistractable#STEP 4 Making a precommitment means reducing future choices to make an outcome less susceptible to distraction.|precommitments]]
+		- [[The Four Tendencies]]
+	- It's faster
+		- [[Get your first shitty draft over as fast as possible.]]
+	- It's easier
+		- [[Slow Burn vs Heavy Lift - Gradually collecting ideas over time and then tying them together is easier than starting from nothing]]
+	- It helps others
+		- [[Open-source|Opensourcing]] knowledge
+	- It's a form of [[Anti-marketing]]
+		- [[The basis of anti-marketing is authenticity]]
+		- [[Working with the garage door up]]
+		- [[Prefer visible work]]
+- What is learning in public?
+	- [[Coding and writing are converging]]. Why don't we treat written work like code?
+		- [[Shift-left|shifting left]]
+		- [[Agile]]
+		- [[Continuous note-taking]]
+	- Principles for learning in public
+		- [[Impostor Syndrome]]
+			- [[Be a guide, not a guru]]
+			- [[Wear your noobiness on your sleeve]]
+		- Allow yourself to [[Play]]
+		- [[Learning Exhaust]], not finished work
+			- [[Document, don't create]]
+		- [[Iterative and incremental work]]
+	- Different fora for learning in public
+		- accountability/private groups
+		- social media
+		- notes
+		- videos
+		- conference talks
+		- writing books
+		- podcasts
+		- courses
+		- community and [[Scenius]]
+- How to learn in public
+	- Baby steps: `#TIL` on social media
+	- Building a [[Personal Knowledge Management|PKM]] system
+		- [[Zettelkasten]]
+		- [[Obsidian]]
+	- Creating your own site
+		- [[Static site generator]]
+	- [[Publishing and distribution]]
+		- [[Tools for publishing and distribution]]
+		- [[Idea Generation]]
+		- Publishing cadence
+		- [[Version Control System]] and the case for [[Git]]
+	- Define your learning funnel
+		- Notes/blog
+		- Accountability groups
+		- Social media
+		- Video
+		- Conference talk
+	- Automating it
+		- [[CI CD Pipeline]] for learning
+	- [[Community building|Build a community]]
+	- Listening for signals
+		- [[Bidirectional feedback loops]]
+		- [[sources/Book/Emergence#Negative feedback may be more useful than positive feedback|negative feedback may be more useful than positive feedback]]
+- When you shouldn't learn in public
+	- Privacy and security considerations
+	- [[Burnout]]
+		- Art vs [[Exhibitionism]]
+		- When do you stop responding to feedback?
+		- Noise
+		- [[readwise/Books/Burnout#^d3d29a|strategic inauthenticity]]
