@@ -1,9 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Doing It in Public
 ---
-
-# Doing It in Public
-
 I'm [Nicole van der Hoeven](https://nicolevanderhoeven.com), and *Doing It in Public* is a book I'm writing about learning in public: what it is, why you should do it, and practical instructions for how to do it. To keep up with the spirit of the book, I'm attempting to write the book itself in public. That means that depending on when you're reading this, you may still find the book in various stages of disarray. Be warned! Here be dragons.
 
 ## Reading this book
