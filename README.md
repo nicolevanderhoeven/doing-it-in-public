@@ -15,4 +15,4 @@ What should you give feedback on? The structure of the book/chapter, whether som
 
 ## Where should I start?
 
-[Here's the current outline of the book](/content/index.md). You can start there, give feedback on the outline itself, or jump into any of the linked sections from there.
+[Here's the current outline of the book](/content/index.md#outline). You can start there, give feedback on the outline itself, or jump into any of the linked sections from there.

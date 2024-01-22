@@ -28,6 +28,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Authenticity by default, and ethical creativity
 - Cunningham's Law
 - When you can show your work
+- What is all this for?
 
 ### Principles for doing it in public
 
@@ -67,6 +68,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
+- The value of a public changelog
 - Formulating your core principles and ethics statement, manifesto for posting online
 - (PKM, static site generators, Git)
 
