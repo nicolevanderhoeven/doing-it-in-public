@@ -2,10 +2,6 @@
 title: Welcome to Doing It in Public
 ---
 I'm [Nicole van der Hoeven](https://nicolevanderhoeven.com), and *Doing It in Public* is a book I'm writing about learning in public: what it is, why you should do it, and practical instructions for how to do it. To keep up with the spirit of the book, I'm attempting to write the book itself in public. That means that depending on when you're reading this, you may still find the book in various stages of disarray. Be warned! Here be dragons.
-
-## Reading this book
-
-I'm using a GitHub repository for version controlling the book, but the best place to read it while it's in progress is on [doingitinpublic.com](https://doingitinpublic.com).
 ## Giving feedback
 
 A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
@@ -16,11 +12,12 @@ What should you give feedback on? The structure of the book/chapter, whether som
 
 *Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
+
 ## Outline
 
 ### [[Introduction]]
 
-###  The case for doing it in public
+###  Chapter 1. The case for doing it in public
 
 - Limiting beliefs that hold us back from making things
 - Open-sourcing knowledge: why open source still works
@@ -28,9 +25,10 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Authenticity by default, and ethical creativity
 - Cunningham's Law
 - When you can show your work
+- Ritual dissent
 - What is all this for?
 
-### Principles for doing it in public
+### Chapter 2. Principles for doing it in public
 
 #### Make it observable
 - Observability of complex distributed systems
@@ -55,7 +53,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 
 ###  Building a foundation for learning in public
 
-#### Tier 0. Microlearning
+#### Chapter 3. Tier 0: Microlearning
 - Starting before you're ready
 - What if it could be easy?
 - Social media
@@ -64,39 +62,51 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Commonplace books and resonance calendars
 - Arguments for plain text
 - (social media, code, microblogging, taking notes)
-#### Tier 1. Systematising your learning
+#### Chapter 4. Tier 1: Systematising your learning
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
 - The value of a public changelog
-- Formulating your core principles and ethics statement, manifesto for posting online
 - (PKM, static site generators, Git)
 
-#### Tier 2. Longform learning
+#### Chapter 5. Tier 2: Longform learning
 - The value of failed experiments
 - Leaning into your unfair advantage
 - Creating high-effort content based on signals
 - Repurposing content to broaden your reach
 - (videos, blog posts, larger development projects, songs, podcasts)
 
-#### Tier 3. Automating your learning
+#### Chapter 6. Tier 3: Automating your learning
 - Creating a content calendar
 - Deciding on publishing cadence, developing consistency
 - Scheduling posts and creating a buffer
 - Feedback triage and prioritising 
 - Building a CI/CD pipeline for learning
 - (content management, product management, processing pipeline, Zapier)
-#### Tier 4. Building a community
+#### Chapter 7: Tier 4: Building a community
 - Creating strategic content
 - Helping others
 - Saying no
 - Making a living out of doing it in public
 - (communities, courses, conference talks, apps)
 
-### When to learn in private
-- Privacy and security
+### Chapter 8. Pitfalls in learning in public
+
+- Optimal quitting and exit criteria for learning in public
 - Burnout and overwork
-- Optimal quitting
 - Art vs Exhibitionism
 - When is feedback noise?
+
+### Chapter 9. How to learn in private
+
 - Strategic inauthenticity
+- Setting public boundaries
+	- Core principles
+	- Ethics statement
+	- Manifesto for posting online
+	- Automatic no list, automatic no reply list
+	- Defensive calendaring
+- Identifying distant mentors
+- The art of lurking
+- Steel-manning and the Hegelian Dialectic
+- Platonic forms and mental models
