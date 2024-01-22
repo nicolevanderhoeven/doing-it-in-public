@@ -16,6 +16,10 @@ What should you give feedback on? The structure of the book/chapter, whether som
 ## Outline
 
 ### [[Introduction]]
+- What is learning in public?
+- Why should you learn in public?
+- How do you learn in public?
+- How the rest of the book is laid out
 
 ###  Chapter 1. The case for doing it in public
 
@@ -30,30 +34,29 @@ What should you give feedback on? The structure of the book/chapter, whether som
 
 ### Chapter 2. Principles for doing it in public
 
-#### Make it observable
-- Observability of complex distributed systems
-- Prefer visible work
-- Own what you make
-- Lead and lag indicators
-#### Make it continuous
-- The convergence of code and speech
-- Continuous improvement in software development
-- Agile and iterative, incremental work
-- Learning sustainably
-#### Make it fun
-- Cultivating playfulness and curiosity
-- Learning useless things
-- Learning things you have no business learning
-- How to learn hard things
-#### Do it in a group
-- Learn within communities
-- Get good at listening for signals
-- Get good at asking for feedback and receiving it well
-- Experiment
+- Make it observable
+	- Observability of complex distributed systems
+	- Prefer visible work
+	- Own what you make
+	- Lead and lag indicators
+- Make it continuous
+	- The convergence of code and speech
+	- Continuous improvement in software development
+	- Agile and iterative, incremental work
+	- Learning sustainably
+- Make it fun
+	- Cultivating playfulness and curiosity
+	- Learning useless things
+	- Learning things you have no business learning
+	- How to learn hard things
+- Do it in a group
+	- Learn within communities
+	- Get good at listening for signals
+	- Get good at asking for feedback and receiving it well
+	- Experiment
 
-###  Building a foundation for learning in public
-
-#### Chapter 3. Tier 0: Microlearning
+### Chapter 3. Tier 0: Microlearning
+- Building a foundation for learning in public
 - Starting before you're ready
 - What if it could be easy?
 - Social media
@@ -62,28 +65,28 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Commonplace books and resonance calendars
 - Arguments for plain text
 - (social media, code, microblogging, taking notes)
-#### Chapter 4. Tier 1: Systematising your learning
+### Chapter 4. Tier 1: Systematising your learning
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
 - The value of a public changelog
 - (PKM, static site generators, Git)
 
-#### Chapter 5. Tier 2: Longform learning
+### Chapter 5. Tier 2: Longform learning
 - The value of failed experiments
 - Leaning into your unfair advantage
 - Creating high-effort content based on signals
 - Repurposing content to broaden your reach
 - (videos, blog posts, larger development projects, songs, podcasts)
 
-#### Chapter 6. Tier 3: Automating your learning
+### Chapter 6. Tier 3: Automating your learning
 - Creating a content calendar
 - Deciding on publishing cadence, developing consistency
 - Scheduling posts and creating a buffer
 - Feedback triage and prioritising 
 - Building a CI/CD pipeline for learning
 - (content management, product management, processing pipeline, Zapier)
-#### Chapter 7: Tier 4: Building a community
+### Chapter 7: Tier 4: Building a community
 - Creating strategic content
 - Helping others
 - Saying no
@@ -110,3 +113,4 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - The art of lurking
 - Steel-manning and the Hegelian Dialectic
 - Platonic forms and mental models
+
