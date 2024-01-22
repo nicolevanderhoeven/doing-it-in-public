@@ -7,7 +7,7 @@ I'm using a GitHub repository for version controlling the book, but the best pla
 
 A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
 - Join [my Discord server]() and head on over to the `#book-doingitinpublic` channel to join the conversation.
-- [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub.
+- [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new?assignees=nicolevanderhoeven&labels=bug&projects=&template=bug.md&title=%5BBUG%5D+) on GitHub.
 
 ## Outline
 
