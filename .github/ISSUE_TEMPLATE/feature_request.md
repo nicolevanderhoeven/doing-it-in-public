@@ -1,19 +1,18 @@
 ---
 name: Feature request
-about: Suggest an idea or improvement for Quartz
-title: ""
+about: Suggest an idea or improvement for Doing It in Public that isn't about a single
+  chapter
+title: "[IDEA] "
 labels: enhancement
-assignees: ""
+assignees: nicolevanderhoeven
+
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe the issue**
+A clear and concise description of what the problem is, or what your suggestion entails.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Cite resources**
+If applicable, are there any topics you'd like me to look into further? Do you have examples elsewhere of what you're describing?
