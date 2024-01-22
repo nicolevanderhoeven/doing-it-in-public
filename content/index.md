@@ -9,7 +9,7 @@ I'm using a GitHub repository for version controlling the book, but the best pla
 ## Giving feedback
 
 A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
-- Join [my Discord server]() and head on over to the `#book-doingitinpublic` channel to join the conversation.
+- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head on over to the `#book-doingitinpublic` channel to join the conversation.
 - [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub.
 
 ## Outline
@@ -50,7 +50,7 @@ A vital part of this process is getting (and responding to) feedback at every st
 
 ###  Building a foundation for learning in public
 
-#### Tier 0. Leroy Jenkins: Microlearning
+#### Tier 0. Microlearning
 - Starting before you're ready
 - What if it could be easy?
 - Social media
@@ -59,28 +59,28 @@ A vital part of this process is getting (and responding to) feedback at every st
 - Commonplace books and resonance calendars
 - Arguments for plain text
 - (social media, code, microblogging, taking notes)
-#### Tier 1. Levelling up : Systematising your learning
+#### Tier 1. Systematising your learning
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
 - Formulating your core principles and ethics statement, manifesto for posting online
 - (PKM, static site generators, Git)
 
-#### Tier 2. Multiclassing: Longform learning
+#### Tier 2. Longform learning
 - The value of failed experiments
 - Leaning into your unfair advantage
 - Creating high-effort content based on signals
 - Repurposing content to broaden your reach
 - (videos, blog posts, larger development projects, songs, podcasts)
 
-#### Tier 3. Recruiting hirelings: Automating your learning
+#### Tier 3. Automating your learning
 - Creating a content calendar
 - Deciding on publishing cadence, developing consistency
 - Scheduling posts and creating a buffer
 - Feedback triage and prioritising 
 - Building a CI/CD pipeline for learning
 - (content management, product management, processing pipeline, Zapier)
-#### Tier 4. Defending a stronghold: Building a community
+#### Tier 4. Building a community
 - Creating strategic content
 - Helping others
 - Saying no
