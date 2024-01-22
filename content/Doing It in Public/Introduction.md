@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
-[[content/index#Outline|Back to Outline]]
+[Back to Outline](content/index.md#outline)
 
 *Doing WHAT in public?*
 
