@@ -9,8 +9,12 @@ I'm using a GitHub repository for version controlling the book, but the best pla
 ## Giving feedback
 
 A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
-- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head on over to the `#book-doingitinpublic` channel to join the conversation.
+- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head on over to the `#book-doing-it-in-public` channel to join the conversation.
 - [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub.
+
+What should you give feedback on? The structure of the book/chapter, whether something was unclear, ideas or suggestions for how I could improve it, new ideas you think I should consider... I'm open to everything related to the content.
+
+*Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
 ## Outline
 
