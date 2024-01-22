@@ -1,6 +1,21 @@
+Different parts of this repository are covered by different licenses.
+
+## Doing It in Public
+
+Copyright (c) 2024 Nicole van der Hoeven
+
+The book parts of this repository were written by Nicole van der Hoeven. These include everything in the directory `content`, as well as the HTML pages generated from the original Markdown files in that directory.
+
+Contributions to this book, either as PRs or as issues, are made under public domain (CCO) or attribution licenses (CC-BY).
+
+
+## Quartz
+
 MIT License
 
 Copyright (c) 2021 jackyzha0
+
+*This repository was originally forked from the tool created by jackyzha0, which is a static site generator for Markdown files. The generation components of this repository remain under the origianl license.*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
