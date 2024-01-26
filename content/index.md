@@ -13,7 +13,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 *Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
 
-## Outline
+
 
 ### [[Introduction]]
 - What is learning in public?
@@ -86,7 +86,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 - Feedback triage and prioritising 
 - Building a CI/CD pipeline for learning
 - (content management, product management, processing pipeline, Zapier)
-### Chapter 7: Tier 4: Building a community
+### Chapter 7. Tier 4: Building a community
 - Creating strategic content
 - Helping others
 - Saying no
