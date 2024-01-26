@@ -21,7 +21,9 @@ But there's another way to make things without the pretense, one that is kinder 
 
 *Doing it in public.*
 
-## 
+## Do it like the Greeks
+
+
 
 ## What is learning in public?
 
