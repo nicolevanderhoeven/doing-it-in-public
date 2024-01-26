@@ -1,10 +1,10 @@
 ---
-title: "<% tp.file.title %>"
+title: <% tp.file.title %>
 draft: false
 description: 
 tags:
   - 
 ---
-[[content/index#Outline|Back to Outline]]
+[Back to outline](/#outline)
 
 

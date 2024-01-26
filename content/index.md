@@ -13,7 +13,7 @@ What should you give feedback on? The structure of the book/chapter, whether som
 *Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
 
-
+## Outline
 
 ### [[Introduction]]
 - What is learning in public?

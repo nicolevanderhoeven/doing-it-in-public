@@ -5,7 +5,7 @@ description:
 tags:
 ---
 
-[Back to Outline](content/index.md#outline)
+[Back to outline](/#outline)
 
 *Doing WHAT in public?*
 
