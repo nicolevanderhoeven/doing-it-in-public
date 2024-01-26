@@ -47,3 +47,7 @@ Public learners jump wholeheartedly into new topics, unfettered by the pressure 
 
 [^kleon]: Kleon, A. (2014). *Show your work!: 10 ways to share your creativity and get discovered.* Workman Publishing Company.
 [^matuschak]: Matuschak, A. (2023). *Work with the garage door up.* Retrieved in January 2024 from https://notes.andymatuschak.org/Work_with_the_garage_door_up.
+
+---
+Annotations: 0,3742 SHA-256 8ea717c353d060386e7fd60e76b74158  
+...

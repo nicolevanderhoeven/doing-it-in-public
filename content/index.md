@@ -104,7 +104,8 @@ There are three ways you can get updates about new chapters for review:
 - Optimal quitting and exit criteria for learning in public
 - Burnout and overwork
 - Art vs Exhibitionism
-- When is feedback noise?
+- When is feedback noise? When you should stop caring what people think.
+- Oversharing and maintaining privacy
 
 ### Chapter 9. How to learn in private
 
