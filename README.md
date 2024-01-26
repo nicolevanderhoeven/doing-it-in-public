@@ -13,6 +13,13 @@ What should you give feedback on? The structure of the book/chapter, whether som
 
 *Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
 
+## Getting updates
+
+There are three ways you can get updates about new chapters for review:
+- Join [my Discord server](https://discord.gg/J8SeNYbzAF). I'll post requests for reviews in the channel `#book-doing-it-in-public`.
+- Sign up for my newsletter, [Thinking in Public](https://tip.nicolevanderhoeven.com). I'll mention available chapters for review there.
+- Check [Changelog](Changelog.md) here for updates.
+
 ## Where should I start?
 
 [Here's the current outline of the book](/content/index.md#outline). You can start there, give feedback on the outline itself, or jump into any of the linked sections from there.
