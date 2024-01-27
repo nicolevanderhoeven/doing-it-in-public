@@ -36,6 +36,7 @@ There are three ways you can get updates about new chapters for review:
 - Cunningham's Law
 - When you can show your work
 - Ritual dissent
+- The Observer Effect, and how to use it to your benefit
 - What is all this for?
 
 ### Chapter 2. Principles for doing it in public
@@ -75,6 +76,7 @@ There are three ways you can get updates about new chapters for review:
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
+	- How to keep some things private and some things public
 - The value of a public changelog
 - (PKM, static site generators, Git)
 
@@ -83,6 +85,7 @@ There are three ways you can get updates about new chapters for review:
 - Leaning into your unfair advantage
 - Creating high-effort content based on signals
 - Repurposing content to broaden your reach
+- What if no one's watching?
 - (videos, blog posts, larger development projects, songs, podcasts)
 
 ### Chapter 6. Tier 3: Automating your learning
@@ -105,7 +108,7 @@ There are three ways you can get updates about new chapters for review:
 - Burnout and overwork
 - Art vs Exhibitionism
 - When is feedback noise? When you should stop caring what people think.
-- Oversharing and maintaining privacy
+- Oversharing and maintaining privacy (personal and professional)
 
 ### Chapter 9. How to learn in private
 
