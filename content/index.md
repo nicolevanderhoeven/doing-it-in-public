@@ -68,6 +68,7 @@ There are three ways you can get updates about new chapters for review:
 - What if it could be easy?
 - Social media
 - The life-changing magic of the daily `#TIL`
+- What if you don't know what you want to learn or write about?
 - Writing stuff down and publishing it
 - Commonplace books and resonance calendars
 - Arguments for plain text
@@ -76,7 +77,8 @@ There are three ways you can get updates about new chapters for review:
 - Turning notes into a Personal Knowledge Management system
 - Creating your own site
 - Version control and gitting gud
-	- How to keep some things private and some things public
+	- How to keep some things private and some things public: information segmentation and regulation
+- How to organise your notes: namespaces, filenames
 - The value of a public changelog
 - (PKM, static site generators, Git)
 
