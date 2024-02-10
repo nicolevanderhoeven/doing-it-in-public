@@ -23,7 +23,17 @@ But there's another way to make things without the pretense, one that is kinder 
 
 ## Do it like the Greeks
 
+None of this is new. In fact, quite the opposite. 
 
+In the 5th century BCE in Athens, the ancient Greeks established what would be the first documented instance of democracy under a nobleman named Cleisthenes. Integral to the reforms Cleisthenes instituted was the foundation of an Assembly, called an *Ekklesia* (ἐκκλησία). The Ekklesia was a gathering of Athenians for the purpose of making collective decisions about policies and laws, but it turned into more than that. It became a way to inform, educate, persuade, debate, include, and learn. Athenians didn't just come to the Ekklesia to listen-- they came to express their opinions, understand others' perspectives, and come to a joint conclusion that everyone was comfortable with. The Ekklesia established oratory and public speaking as one of the very foundations of democracy.
+
+Over time, the use of oratory spilled out of the political domain and trickled through to other areas of society, like philosophy. Later, Athenians would flock to the Lyceum, a cross between a school and a gymnasium that would be used for both mental and physical exercises. The best thinkers of Athens discovered that oratory was useful for more than just making decisions. It was a good tool for reasoning about the nature of life, the universe, and everything. With that understanding came the refinement of two sub-disciplines of oratory: *rhetoric* and *dialectic*. [^lumen]
+
+Rhetoric is the art of persuasion, but it's not just about delivering an impassioned speech. Aristotle founded his own school in Athens, called the *Peripatetic* school, a "walking school" where instead of teaching, he would walk around the Lyceum with his students, discussing philosophy. Aristotle used rhetoric as a way to *develop* ideas, not just express them. He would go and speak with his students as a way to build arguments, tailoring his cadence and delivery to their emotional and intellectual reactions. Aristotle spoke in public to get constant feedback about how his ideas were being received.
+
+Dialectic, on the other hand, is the art of synthesizing disparate and sometimes contradictory ideas. Socrates had a particular style of questioning, called the Socratic method, that involved asking increasingly challenging questions to reveal the faults of a premise. Dialectic is about systematically and dispassionately attacking an idea with the goal of strengthening it-- or disproving it entirely. Plato used structured dialogues to make his points, deliberately working in counterarguments to preempt potential criticisms and to deepen his own, as well as others', understanding of the topic. Dialectic is a style of critical reasoning that hinges on dissent, and is therefore best done among a crowd of people who can authentically disagree.
+
+The Ancient Greeks understood something that we've lost: that speaking in front of an audience can be part of the process of learning, rather than the end result. They practiced the art of oratory not just for its performative value. They practiced it because it gave them immediate feedback about how their arguments were received and critical information about how to improve next time. The Ancient Greeks understood the value of learning in public.
 
 ## What is learning in public?
 
@@ -47,7 +57,9 @@ Public learners jump wholeheartedly into new topics, unfettered by the pressure 
 
 [^kleon]: Kleon, A. (2014). *Show your work!: 10 ways to share your creativity and get discovered.* Workman Publishing Company.
 [^matuschak]: Matuschak, A. (2023). *Work with the garage door up.* Retrieved in January 2024 from https://notes.andymatuschak.org/Work_with_the_garage_door_up.
+[^lumen]: Lumen Learning. *Module 16: The origins of public speaking.* Retrieved from https://courses.lumenlearning.com/publicspeakingprinciples/chapter/ancient-greece/#footnote-413-3
 
 ---
-Annotations: 0,3742 SHA-256 8ea717c353d060386e7fd60e76b74158  
+Annotations: 0,7157 SHA-256 565b3c12c45cbbd315d9f5f786562a9f  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 1776,314 2098,2910 6974,86  
 ...
