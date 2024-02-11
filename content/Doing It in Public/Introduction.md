@@ -7,9 +7,11 @@ tags:
 
 [Back to outline](/#outline)
 
-Sometimes, you just have to do something for the fun of it.
+"Wouldn't it be cool if I could speak Dutch?"
 
-That's how it was with me for the Dutch language. At the start of 2016, I was living in Melbourne, Australia, when I got the idea that I wanted to learn Dutch. At the time, I didn't speak a word of it, but I loved the way it sounded and fantasized about living in the Netherlands someday. So I started to learn.
+I don't even remember what prompted me to ask myself this question, but six months later, I found myself speaking technical Dutch full-time in my work as a software consultant in the Netherlands. Here's how that happened.
+
+At the start of the year, I was living in Melbourne, Australia, when I got the idea that I wanted to learn Dutch. At the time, I didn't speak a word of it, but I loved the way it sounded and fantasized about living in the Netherlands someday. So I started to learn.
 
 After installing [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSMEKZHWDOXTNPY) and learning how to say useful phrases like "I am a duck" in Dutch, I realized I needed something different. I found and joined a (now defunct) community called [Add 1 Challenge](https://podcasts.apple.com/us/podcast/add1challenge-where-we-add-a-language-together/id859595888) by Brian Kwong. The Add 1 Challenge is a language learning challenge with three basic premises:
 1. The best way to become a polyglot (someone who speaks multiple languages) is to add one language at a time.
@@ -18,11 +20,11 @@ After installing [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSMEKZHWDOXTN
 
 So, in February 2016, I pledged to spend an hour every day learning Dutch in some way for 90 days straight. [You can still watch my video on Day 0 here](https://www.youtube.com/watch?v=vI3akVTJIyc). Sometimes that involved learning grammar from books, but most of it was spent taking conversation lessons, watching Peppa Pig, reading the news, reading my favourite kids' (and, later, Young Adult) books, and listening to songs in Dutch. Crucially, I posted several videos of me speaking Dutch to the Add 1 Challenge Facebook community at several points along the way, and also met up weekly with my accountability buddy to discuss our language learning progress. [Here's the video on day 90](https://www.youtube.com/watch?v=Cw9Kk66tEEw). [^add1] Along the way, I met a few wonderful friends who spoke Dutch (something I couldn't find in Melbourne) and gave me great feedback about what I should work on next.
 
-Almost immediately after the challenge, my husband and I went on a five-week trip to the Netherlands, where we explored the country thoroughly, celebrated *Koningsdag*, got lost in the canals of Utrecht, ate cheese in Gouda, ate bitterballen in Rotterdam, saw the Girl with the Pearl Earring painting in Den Haag, walked in the Hortus Botanicus in Leiden, and saw tulips of every colour at the Keukenhof-- while doing as much of it in Dutch as I possibly could. In a twist of fate, I also met up with an old friend who arranged a job interview. I took the interview, entirely in Dutch.
+Almost immediately after the challenge, my husband and I went on a five-week trip to the Netherlands, where we explored the country thoroughly, celebrated *Koningsdag*, got lost in the canals of Utrecht, sampled cheese in Gouda, ate bitterballen in Rotterdam, saw the *Girl with the Pearl Earring* in Den Haag, walked in the Hortus Botanicus in Leiden, and saw tulips of every colour at the Keukenhof-- while doing as much of it in Dutch as I possibly could. In a twist of fate, I also met up with an old friend who arranged a job interview for me with his employer. I did the interview entirely in Dutch.
 
 Two weeks after I returned to Melbourne, I had a job offer. Two months after that, my husband and I had quit our Australian jobs, rented out our house, sold or given away our things, and were moving to the Netherlands.
 
-Today, I'm a Dutch citizen. I own an apartment in the beautiful border city of Maastricht, in the Netherlands, where I've lived for six years. I speak Dutch every day. I've worked, given presentations at conferences, done my taxes, read real estate contracts, written poems, and made friends-- entirely in Dutch.
+Today, I'm a Dutch citizen. I own an apartment in the beautiful border city of Maastricht, in the Netherlands, where I've lived for seven years. I speak Dutch every day. I've worked, given presentations at conferences, done my taxes, read real estate contracts, written poems, and made friends-- entirely in Dutch.
 
 All that is possible because I did it in public.
 
@@ -195,8 +197,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,20190 SHA-256 c69752c29e84263439f8f845720190cb  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,541 10476,268 10754,1326 12081,2693 14790,2 14805,2 14838,2 14859,1526 16395,299 16699,19 16783,2 16788,1815 18604,40 18935,86 19118 19129,76 19328,306 19661,103 19830 19843,186 20072,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10744,10 16385,10 16694,5 16718,65 19119,10 19831,12  
-@Radiohead: 14774,16 14792,13 14807,31 14840,19  
+Annotations: 0,20375 SHA-256 4afeee4ff1d64f254391b8c3403fc472  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,299 16884,19 16968,2 16973,1815 18789,40 19120,86 19303 19314,76 19513,306 19846,103 20015 20028,186 20257,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 16879,5 16903,65 19304,10 20016,12  
+@Radiohead: 14959,16 14977,13 14992,31 15025,19  
 ...
