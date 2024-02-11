@@ -150,9 +150,33 @@ You make learning exhaust visible
 
 You are sustainably productive
 
-## How do you learn in public?
+## What's in the book?
 
-What's in the book?
+This book is divided into ten chapters:
+
+[[Chapter 1 - The case for doing it in public]] lays out reasons why you should learn in public, and why open-source knowledge works.
+
+[[Chapter 2 - Mindset]] shows you how to learn in public by making your work observable, continuous, fun, communal, and intentional. It also provides you with a Manifesto for Learning in Public that you can use to guide your work.
+
+[[Chapter 3 - Microlearning]] proposes suggestions for how to start before you're ready to learn in public, what you should post in public, and where you should post them.
+
+[[Chapter 4 - Systematising your learning]] encourages you to add structure to your learning to make it less haphazard and more focused, including setting up a Personal Knowledge Management system.
+
+[[Chapter 5 - Longform learning]] explains how to double down on your learning to create work that others value and how to broaden your reach.
+
+[[Chapter 6 - Automating your learning]] gives you practical tutorials for how to automate learning in public, including creating a content calendar and building a learning pipeline.
+
+[[Chapter 7 - Building a community]] talks about how to attract interesting people, how cultivate ritual dissent, and how to make a living out of learning in public.
+
+[[Chapter 8 - Pitfalls in learning in public]] calls out some potential obstacles in your public learning journey and explains how you can avoid them.
+
+[[Chapter 9 - When to learn in private]] talks about those situations when you *shouldn't* learn in public, and how to defend the boundaries between public and private learning.
+
+[[Chapter 10 - The cost of not doing it in public]] concludes with a reminder of what happens when you *don't* learn in public.
+
+## Who is this book for?
+
+This book is for 
 
 ### My story
 
@@ -171,8 +195,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,18439 SHA-256 e2b21ef63c31997f4f6f2e265b76878f  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,541 10476,268 10754,1326 12081,2693 14790,2 14805,2 14838,2 14859,1526 16395,299 16699,19 16815,2 16836,16 16853,40 17184,86 17367 17378,76 17577,306 17910,103 18079 18092,186 18321,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10744,10 16385,10 16694,5 16718,65 17368,10 18080,12  
+Annotations: 0,20190 SHA-256 c69752c29e84263439f8f845720190cb  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,541 10476,268 10754,1326 12081,2693 14790,2 14805,2 14838,2 14859,1526 16395,299 16699,19 16783,2 16788,1815 18604,40 18935,86 19118 19129,76 19328,306 19661,103 19830 19843,186 20072,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10744,10 16385,10 16694,5 16718,65 19119,10 19831,12  
 @Radiohead: 14774,16 14792,13 14807,31 14840,19  
 ...

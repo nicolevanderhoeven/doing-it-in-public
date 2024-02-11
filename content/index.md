@@ -33,12 +33,11 @@ There are three ways you can get updates about new chapters for review:
 - Open-sourcing knowledge: why open source still works
 - Accountability and precommitments
 - Authenticity by default, and ethical creativity
-- Cunningham's Law
 - When you can show your work
 - The Observer Effect, and how to use it to your benefit
 - What is all this for?
 
-### Chapter 2. Mindset for doing it in public
+### Chapter 2. Mindset
 
 - Make it observable
 	- Observability of complex distributed systems
