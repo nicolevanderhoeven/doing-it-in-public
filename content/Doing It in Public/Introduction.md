@@ -150,9 +150,14 @@ Austin Kleon called this *scenius*: the fertile environment created through genu
 Communities of public learners are safe spaces for asking "dumb" questions because it resets the expectations of what gets to be posted online. This effect of lowering the barrier to entry also leaves room for people with different voices to join the conversation-- often people whose voices are too meek or wavering to be heard over the noise of the mainstream public. Doing it in public helps you forge the path so that these people, who have interesting and unique perspectives of the world, feel encouraged to follow.
 
 ### You are sustainably productive
-You make learning exhaust visible
 
-You don't burn out
+The mass migration towards remote work has called into question some fundamental beliefs about human productivity, such as that it is primarily measured by how much time one spends at the office. Some companies, and some cultures, still work this way, with amount of time spent at a company and the amount of hours worked still matter more than anything else. Remote workers are still sometimes judged similarly, though. Sometimes they're judged by the amount of Slack messages they write, or how responsive they are to email, or how outspoken they are during team meetings. All of this puts pressure on employees not to actually *be* productive but to *look* like they're being productive-- sometimes while burning themselves out in the process. These approaches are ultimately ineffective because they make the wrong thing visible.
+
+Learning in public is about making the right things visible: the learning. Not the busywork, and not the overhead of work. But it's also not so much about making the results visible. In fact, many public learners must keep the final results private, especially if they're working on proprietary projects belonging to their clients. Instead, learning in public is about making *learning exhaust* visible.
+
+Learning exhaust refers to what we think are the byproducts of learning, but are actually the proof of it: the series of questions beforehand, the wrong answers, the research down dead ends, the attempts and failures. When we reframe the stops along the way as little milestones, and we're producing visible work (unpolished as it may be) along the way, the destination matters less.
+
+When you publish your learning exhaust, you're communicating what you're working on while you're still working on it. Working in this way means you don't have to stop what you're doing to produce separate progress reports, because your exhaust shows your progress. Learning in public can be a powerful tool in reducing overwork and preventing burnout.
 
 ## Who is this book for?
 
@@ -182,13 +187,13 @@ This book is divided into ten chapters:
 
 [[Chapter 10 - The cost of not doing it in public]] concludes with a reminder of what happens when you *don't* learn in public.
 
-
-
 ### My story
 
 
 
 That's the magic of doing it in public.
+
+---
 
 [^kleon]: Kleon, A. (2014). *Show your work!: 10 ways to share your creativity and get discovered.* Workman Publishing Company.
 [^matuschak]: Matuschak, A. (2023). *Work with the garage door up.* Retrieved in January 2024 from https://notes.andymatuschak.org/Work_with_the_garage_door_up.
@@ -201,8 +206,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,21634 SHA-256 534ba60f5db21f6a69112b29d51a7c1d  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,1556 18141,31 18211,16 18270,2 18275,1772 20048,40 20379,86 20562 20573,76 20772,306 21105,103 21274 21287,186 21516,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 18136,5 18172,39 18227,43 20563,10 21275,12  
+Annotations: 0,23561 SHA-256 4955695f983624dee59bb5137c5ea83e  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,1556 18141,1655 19798,353 20194,2 20199,1770 21970,45 22306,86 22489 22500,76 22699,306 23032,103 23201 23214,186 23443,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 18136,5 19796,2 20151,43 22490,10 23202,12  
 @Radiohead: 14959,16 14977,13 14992,31 15025,19  
 ...
