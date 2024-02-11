@@ -7,7 +7,27 @@ tags:
 
 [Back to outline](/#outline)
 
-*Doing WHAT in public?*
+Sometimes, you just have to do something for the fun of it.
+
+That's how it was with me for the Dutch language. At the start of 2016, I was living in Melbourne, Australia, when I got the idea that I wanted to learn Dutch. At the time, I didn't speak a word of it, but I loved the way it sounded and fantasized about living in the Netherlands someday. So I started to learn.
+
+After installing [Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSMEKZHWDOXTNPY) and learning how to say useful phrases like "I am a duck" in Dutch, I realized I needed something different. I found and joined a (now defunct) community called [Add 1 Challenge](https://podcasts.apple.com/us/podcast/add1challenge-where-we-add-a-language-together/id859595888) by Brian Kwong. The Add 1 Challenge is a language learning challenge with three basic premises:
+1. The best way to become a polyglot (someone who speaks multiple languages) is to add one language at a time.
+2. Committing to learning something (anything) in a language every day for 90 days yields astonishing results.
+3. Having a public community and a smaller, private group to hold you accountable for learning makes all the difference.
+
+So, in February 2016, I pledged to spend an hour every day learning Dutch in some way for 90 days straight. [You can still watch my video on Day 0 here](https://www.youtube.com/watch?v=vI3akVTJIyc). Sometimes that involved learning grammar from books, but most of it was spent taking conversation lessons, watching Peppa Pig, reading the news, reading my favourite kids' (and, later, Young Adult) books, and listening to songs in Dutch. Crucially, I posted several videos of me speaking Dutch to the Add 1 Challenge Facebook community at several points along the way, and also met up weekly with my accountability buddy to discuss our language learning progress. [Here's the video on day 90](https://www.youtube.com/watch?v=Cw9Kk66tEEw). [^add1] Along the way, I met a few wonderful friends who spoke Dutch (something I couldn't find in Melbourne) and gave me great feedback about what I should work on next.
+
+Almost immediately after the challenge, my husband and I went on a five-week trip to the Netherlands, where we explored the country thoroughly, celebrated *Koningsdag*, got lost in the canals of Utrecht, ate cheese in Gouda, ate bitterballen in Rotterdam, saw the Girl with the Pearl Earring painting in Den Haag, walked in the Hortus Botanicus in Leiden, and saw tulips of every colour at the Keukenhof-- while doing as much of it in Dutch as I possibly could. In a twist of fate, I also met up with an old friend who arranged a job interview. I took the interview, entirely in Dutch.
+
+Two weeks after I returned to Melbourne, I had a job offer. Two months after that, my husband and I had quit our Australian jobs, rented out our house, sold or given away our things, and were moving to the Netherlands.
+
+Today, I'm a Dutch citizen. I own an apartment in the beautiful border city of Maastricht, in the Netherlands, where I've lived for six years. I speak Dutch every day. I've worked, given presentations at conferences, done my taxes, read real estate contracts, written poems, and made friends-- entirely in Dutch.
+
+All that is possible because I did it in public.
+
+
+## Doing WHAT in public?
 
 We often treat learning something the way we treat sex.
 
@@ -33,7 +53,9 @@ Rhetoric is the art of persuasion, but it's not just about delivering an impassi
 
 Dialectic, on the other hand, is the art of synthesizing disparate and sometimes contradictory ideas. Socrates had a particular style of questioning, called the Socratic method, that involved asking increasingly challenging questions to reveal the faults of a premise. Dialectic is about systematically and dispassionately attacking an idea with the goal of strengthening it-- or disproving it entirely. Plato used structured dialogues to make his points, deliberately working in counterarguments to preempt potential criticisms and to deepen his own, as well as others', understanding of the topic. Dialectic is a style of critical reasoning that hinges on dissent, and is therefore best done among a crowd of people who can authentically disagree.
 
-The Ancient Greeks understood something that we've lost: that speaking in front of an audience can be part of the process of learning, rather than the end result. They practiced the art of oratory not just for its performative value. They practiced it because it gave them immediate feedback about how their arguments were received and critical information about how to improve next time. The Ancient Greeks understood the value of learning in public.
+The ancient Greeks understood something that we've lost: that speaking in front of an audience can be part of the process of learning, rather than the end result. They practiced the art of oratory not just for its performative value. They practiced it because it gave them immediate feedback about how their arguments were received and critical information about how to improve next time. 
+
+The ancient Greeks understood the value of learning in public: something that still holds true today.
 
 ## What is learning in public?
 
@@ -41,25 +63,116 @@ Learning in public is a fundamental subversion of how most of us learn to learn.
 
 Learning in public is about showing your work [^kleon] as part of the creation process, using social networks and digital tools to shorten the gap between ideation and production. Public learners post questions on social media when someone says something they don't understand, but want to learn. Their status updates are a progress report of their latest project. They speak up during community spaces to pitch ideas. They turn on the camera and press record without scripting what they're going to say. They publish blog posts before they feel ready. They apply to speak at conferences before they feel they're experts. Public learners make mistakes loudly, waiting for someone to correct them. And they're genuinely happy when someone does.
 
-Learning in public is like working with the garage door up [^matuschak] and leaving it open as an invitation: an invitation for others not just to watch them work, but to participate in the process as co-creators to a community of knowledge.
-
+Learning in public is like working with the garage door up [^matuschak] and leaving it open as an invitation: an invitation for others not just to watch them work, but to participate in the process as co-creators of a community of knowledge.
 
 ## Why should you learn in public?
 
+By now, you're probably thinking that learning in public sounds great... in theory. But if you're like most people (including me), you've probably also felt that constricting fear in your chest at the thought of showing the world how little you really know. How messy your initial draft is. How much you actually have to edit your work to make it presentable.
 
-Public learners jump wholeheartedly into new topics, unfettered by the pressure to be perfect.
+Everyone feels that way. Here are some reasons why you should do it anyway.
+
+### You get immediate feedback
+
+There's an internet meme known as *Cunningham's Law* that states :
+
+> The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer.
+
+Provocative idea. Here's the thing: the law itself is perhaps purposely misattributed to Ward Cunningham, a programmer who is one of the co-authors of the Agile Manifesto [^manifesto]. It was actually coined by Steven McGeady, who submitted it to the New York Times [^nytimes] referencing Cunningham, whom he'd met. Since then, the law has also prompted some to disprove it [^theoutline]... which, in my opinion, proves the law.
+
+Whether the law itself is right or wrong, there's some truth to it, and the truth is that it's easier to get feedback when you start from something to disprove.
+
+Now, I'm not suggesting you spam the internet creating fake news and trolling strangers for fun. I'm suggesting that when you have a question, you do your research, present your opinion, cite your sources, and admit you're not sure if your conclusions are correct. Then post it online.
+
+I'd wager that you're more likely to get an answer to that than to posting an open-ended question. It takes less effort to correct a mistake than it does to answer a question from scratch. Doing your own research and showing your work also demonstrates that you respect others' time.
+
+Showing others what you're working on, early and often, does expose you to negative feedback, but that's a good thing. Compassionately given negative feedback is a powerful thing. It better facilitates behavioral change than positive feedback and forms the basis of evolution by natural selection. [^emergence] Learning in public helps you get the helpful criticism you need before you go much further, letting you course correct earlier.
+
+### You get better at continuous learning
+
+Just as the Athenians discovered, the very act of sharing what you're thinking is a critical part of the thinking process itself. You don't really know if you know something unless you can express it to someone else-- unless you can take someone outside of yourself through the same journey and have them come to the same conclusion. And you don't know how good what you've created is until it's gone through the fire of criticism and feedback.
+
+We often think of creation as a one-and-done linear process:
+1. You take in content as input.
+2. You come up with an idea.
+3. You produce something. 
+
+It may be nice and simple, but this approach exposes you to so many risks along the way:
+- What if you misunderstood your original input entirely?
+- What if you didn't consume *enough* input, and missed other input that would have presented a different opinion?
+- What if someone else had already come up with your idea, but stated it better?
+- What if your idea is flawed in some fundamental way?
+- What if you didn't present your idea convincingly?
+
+And the most devastating risk to anyone making anything ever: what if you build something, and nobody ever sees or appreciates or uses it?
+
+Instead, you could view creation as a cycle of continuous learning. Reframing it in this light frees you from the relentless focus on the end result so that you can actually go through the learning required to make beautiful things. But continuous learning behind closed doors requires a LOT of time and effort, and can cause you to second-guess when you should actually publish your work. What if you did it in public instead?
+
+When you continuously learn in public, it looks like this:
+- Talking about input - things you've read or otherwise consumed that have stuck with you. 
+- Getting into discussions with others about why they agree or disagree, and receiving recommendations of other input for future lines of inquiry. 
+- Learning quickly what resonates with others and what doesn't.
+- Rapidly revising your ideas, and resharing as you do so. Getting feedback on that anew.
+- Gradually refining your craft, improving your work incrementally with every bit of feedback you receive.
+
+Learning in public shortens the feedback loop for continuous learning because you're soliciting reactions at every stage of the process, before you get too invested. And, bonus: when you learn in public, you don't have to decide when to "publish" your work-- you've been doing that all along.
+
+### You combat impostor syndrome
+
+More than thirty years ago, Radiohead recorded a song that might as well have been written about impostor syndrome:
+
+> I wish I was special
+> But I'm a creep
+> I'm a weirdo
+> What the hell am I doing here?
+> I don't belong here
+> - *Creep*, by Radiohead [^radiohead]
+
+Secretly, we all think we're frauds. No matter how good we get, how many achievements we accomplish, how many years of experience we accumulate, at some point we all question what the hell we're doing here. This is impostor syndrome.
+
+It's impossible to talk about making something without talking about impostor syndrome because the very act of creation involves putting a part of yourself out there for display, whether you show anyone or not. And the thought of showing many people your work, especially in a raw state, can be terrifying.
+
+Learning in public combats impostor syndrome with authenticity.
+
+When you learn in public, you are open about your level of knowledge, your experience, your intentions, and your mistakes. Because you're showing where you've come from and the little steps you're taking to get to where you're going, your entire learning journey is documented. Learning in public is a way to declare to the world that what follows is going to be messy and raw. This declaration can be terrifically liberating.
+
+Nobody expects you to be perfect when you're learning. You never claimed to be an expert; why would they critique you like you are one? Nobody questions whether you belong, because you've made it clear you're just beginning. Nobody asks you to prove what you know, because it's all recorded for posterity, in public.
+
+But most of all, learning in public helps *you* begin to lower your expectations of yourself, enough to actually enjoy the process.
+
+### You build and contribute to diverse communities
+
+A huge advantage of learning in public is that when you're "out" as a public learner, you inspire others to do the same. And you realize that 
+
+is the community you begin to build around yourself of other public learners, genuine supporters, and friends
+
+### You don't burn out
+You make learning exhaust visible
+
+You are sustainably productive
 
 ## How do you learn in public?
 
+What's in the book?
 
-## What's in the book?
+### My story
 
+
+
+That's the magic of doing it in public.
 
 [^kleon]: Kleon, A. (2014). *Show your work!: 10 ways to share your creativity and get discovered.* Workman Publishing Company.
 [^matuschak]: Matuschak, A. (2023). *Work with the garage door up.* Retrieved in January 2024 from https://notes.andymatuschak.org/Work_with_the_garage_door_up.
 [^lumen]: Lumen Learning. *Module 16: The origins of public speaking.* Retrieved from https://courses.lumenlearning.com/publicspeakingprinciples/chapter/ancient-greece/#footnote-413-3
+[^nytimes]: McGeady, S. (2010). *Jurisimprudence*. The New York Times. Retrieved from https://archive.nytimes.com/schott.blogs.nytimes.com/2010/05/31/jurisimprudence/?mtrref=en.wikipedia.org&assetType=REGIWALL
+[^manifesto]: Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R.C., Mellor, S., Schwaber, K., Sutherland, J., Thomas, D. (2001). *Manifesto for Agile software development*. Retrieved from https://agilemanifesto.org/
+[^theoutline]: Donnellan, K. (2019). *I spent a week being wrong online.* The Outline. Retrieved from https://theoutline.com/post/8084/i-spent-a-week-being-wrong-online
+[^emergence]: Johnson, S. (2002). *Emergence: The connected lives of ants, brains, cities and software*. Penguin Books Ltd.
+[^radiohead]: Radiohead. (1992). *Creep*. *Pablo Honey*. EMI Records Ltd. https://www.youtube.com/watch?v=XFkzRNyygfk
+[^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,7157 SHA-256 565b3c12c45cbbd315d9f5f786562a9f  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 1776,314 2098,2910 6974,86  
+Annotations: 0,18440 SHA-256 283796f95aa4aeaa3770ffec59b6c508  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,542 10477,268 10755,1326 12082,2693 14791,2 14806,2 14839,2 14860,1526 16396,299 16700,19 16816,2 16837,16 16854,40 17185,86 17368 17379,76 17578,306 17911,103 18080 18093,186 18322,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10745,10 16386,10 16695,5 16719,65 17369,10 18081,12  
+@Radiohead: 14775,16 14793,13 14808,31 14841,19  
 ...

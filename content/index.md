@@ -61,6 +61,7 @@ There are three ways you can get updates about new chapters for review:
 	- Get good at listening for signals
 	- Get good at asking for feedback and receiving it well
 	- Experiment
+- The Manifesto for Learning in Public
 
 ### Chapter 3. Tier 0: Microlearning
 - Building a foundation for learning in public
