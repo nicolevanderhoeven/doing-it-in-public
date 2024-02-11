@@ -161,7 +161,17 @@ When you publish your learning exhaust, you're communicating what you're working
 
 ## Who is this book for?
 
-This book is for 
+This book is for knowledge workers: anyone who makes a living out of what they know. 
+
+It's for the software engineers who are struggling to stay relevant in a field where everything is moving all the time.
+
+It's for writers who are trying to hone their craft while making a living from writing stuff on the internet.
+
+It's for content creators who read widely and must create something new from something old.
+
+It's for designers, artists, researchers, influencers, academics, businesspeople. It's for gamers. It's for those who are neurodivergent. It's for noobs and experts alike.
+
+Most of all, this book is for the perfectionists, the people too scared to put something out there until it's just right. You want to tweak everything until you're satisfied that it presents you in the best light, and the thought of posting raw work seems terribly daunting. I see you. I was you. This book is for you, too.
 
 ## What's in the book?
 
@@ -206,8 +216,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,23561 SHA-256 4955695f983624dee59bb5137c5ea83e  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,1556 18141,1655 19798,353 20194,2 20199,1770 21970,45 22306,86 22489 22500,76 22699,306 23032,103 23201 23214,186 23443,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 18136,5 19796,2 20151,43 22490,10 23202,12  
+Annotations: 0,24452 SHA-256 c7f35fedf0244dcf2c17bef3695a5bf9  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,1556 18141,1655 19798,353 20194,893 21090,1770 22861,45 23197,86 23380 23391,76 23590,306 23923,103 24092 24105,186 24334,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 18136,5 19796,2 20151,43 23381,10 24093,12  
 @Radiohead: 14959,16 14977,13 14992,31 15025,19  
 ...
