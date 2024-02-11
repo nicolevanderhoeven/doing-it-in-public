@@ -73,7 +73,7 @@ Everyone feels that way. Here are some reasons why you should do it anyway.
 
 ### You get immediate feedback
 
-There's an internet meme known as *Cunningham's Law* that states :
+There's an internet meme known as *Cunningham's Law* that states:
 
 > The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer.
 
@@ -171,8 +171,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,18440 SHA-256 283796f95aa4aeaa3770ffec59b6c508  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,542 10477,268 10755,1326 12082,2693 14791,2 14806,2 14839,2 14860,1526 16396,299 16700,19 16816,2 16837,16 16854,40 17185,86 17368 17379,76 17578,306 17911,103 18080 18093,186 18322,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10745,10 16386,10 16695,5 16719,65 17369,10 18081,12  
-@Radiohead: 14775,16 14793,13 14808,31 14841,19  
+Annotations: 0,18439 SHA-256 e2b21ef63c31997f4f6f2e265b76878f  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,638 825,595 1463,496 2002,1346 3349,3 5034,314 5356,2951 9762,3 9826,541 10476,268 10754,1326 12081,2693 14790,2 14805,2 14838,2 14859,1526 16395,299 16699,19 16815,2 16836,16 16853,40 17184,86 17367 17378,76 17577,306 17910,103 18079 18092,186 18321,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10744,10 16385,10 16694,5 16718,65 17368,10 18080,12  
+@Radiohead: 14774,16 14792,13 14807,31 14840,19  
 ...

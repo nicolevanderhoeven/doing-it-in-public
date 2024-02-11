@@ -35,11 +35,10 @@ There are three ways you can get updates about new chapters for review:
 - Authenticity by default, and ethical creativity
 - Cunningham's Law
 - When you can show your work
-- Ritual dissent
 - The Observer Effect, and how to use it to your benefit
 - What is all this for?
 
-### Chapter 2. Principles for doing it in public
+### Chapter 2. Mindset for doing it in public
 
 - Make it observable
 	- Observability of complex distributed systems
@@ -58,12 +57,18 @@ There are three ways you can get updates about new chapters for review:
 	- How to learn hard things
 - Do it in a group
 	- Learn within communities
+	- Find an accountability group
 	- Get good at listening for signals
 	- Get good at asking for feedback and receiving it well
 	- Experiment
+- Make it intentional
+	- What are your exit criteria?
+	- How to get out of your own way
+	- Get clear about why you're doing this, and why you're not
 - The Manifesto for Learning in Public
 
 ### Chapter 3. Tier 0: Microlearning
+
 - Building a foundation for learning in public
 - Starting before you're ready
 - What if it could be easy?
@@ -73,6 +78,7 @@ There are three ways you can get updates about new chapters for review:
 - Writing stuff down and publishing it
 - Commonplace books and resonance calendars
 - Arguments for plain text
+- Experimenting on different platforms
 - (social media, code, microblogging, taking notes)
 ### Chapter 4. Tier 1: Systematising your learning
 - Turning notes into a Personal Knowledge Management system
@@ -81,6 +87,7 @@ There are three ways you can get updates about new chapters for review:
 	- How to keep some things private and some things public: information segmentation and regulation
 - How to organise your notes: namespaces, filenames
 - The value of a public changelog
+- Learning in public when you have attention deficit challenges
 - (PKM, static site generators, Git)
 
 ### Chapter 5. Tier 2: Longform learning
@@ -100,20 +107,22 @@ There are three ways you can get updates about new chapters for review:
 - (content management, product management, processing pipeline, Zapier)
 ### Chapter 7. Tier 4: Building a community
 - Creating strategic content
+- Cultivating ritual dissent
 - Helping others
 - Saying no
 - Making a living out of doing it in public
+- Finding your people through continuous learning
 - (communities, courses, conference talks, apps)
 
 ### Chapter 8. Pitfalls in learning in public
 
 - Optimal quitting and exit criteria for learning in public
-- Burnout and overwork
 - Art vs Exhibitionism
 - When is feedback noise? When you should stop caring what people think.
 - Oversharing and maintaining privacy (personal and professional)
+- One for you, one for them
 
-### Chapter 9. How to learn in private
+### Chapter 9. When to learn in private
 
 - Strategic inauthenticity
 - Setting public boundaries
@@ -127,3 +136,10 @@ There are three ways you can get updates about new chapters for review:
 - Steel-manning and the Hegelian Dialectic
 - Platonic forms and mental models
 
+### Chapter 10. Conclusion: The cost of not doing it in public
+
+- Burnout and overwork
+- Cognitive dissonance
+- The Starving Artist mentality
+- Business/financial cost: having nothing to show for your work
+- Getting it wrong late - training the monkey first
