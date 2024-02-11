@@ -143,14 +143,20 @@ But most of all, learning in public helps *you* begin to lower your expectations
 
 ### You build and contribute to diverse communities
 
-A huge advantage of learning in public is that when you're "out" as a public learner, you inspire others to do the same. And you realize that 
+A huge advantage of learning in public is that when you're "out" as a public learner, you inspire others to do the same. Others admire your courage and learn right along with you. Public learning lets you put yourself out there sooner, warts and all, so that your tribe can find you. You start to build a circle of supporters and friends who cheer you on when you make mistakes just as much as when you don't. You participate in *their* public learning, discuss ideas back and forth, collaborate, contribute to a community of knowledge, and interact with kind and brilliantly creative humans.
 
-is the community you begin to build around yourself of other public learners, genuine supporters, and friends
+Austin Kleon called this *scenius*: the fertile environment created through genuine interaction that cultivates creativity for everyone who participates. [^kleon] This scenius nourishes you and your people, in the same way that the Lyceum did for the ancient Greeks. Being adamant about the value of learning in public affects the kinds of people who end up contributing to your life and work.
 
-### You don't burn out
+Communities of public learners are safe spaces for asking "dumb" questions because it resets the expectations of what gets to be posted online. This effect of lowering the barrier to entry also leaves room for people with different voices to join the conversation-- often people whose voices are too meek or wavering to be heard over the noise of the mainstream public. Doing it in public helps you forge the path so that these people, who have interesting and unique perspectives of the world, feel encouraged to follow.
+
+### You are sustainably productive
 You make learning exhaust visible
 
-You are sustainably productive
+You don't burn out
+
+## Who is this book for?
+
+This book is for 
 
 ## What's in the book?
 
@@ -176,9 +182,7 @@ This book is divided into ten chapters:
 
 [[Chapter 10 - The cost of not doing it in public]] concludes with a reminder of what happens when you *don't* learn in public.
 
-## Who is this book for?
 
-This book is for 
 
 ### My story
 
@@ -197,8 +201,8 @@ That's the magic of doing it in public.
 [^add1]: If you're interested in seeing my progress during these 90 days, here's the playlist: https://nicole.to/add1
 
 ---
-Annotations: 0,20375 SHA-256 4afeee4ff1d64f254391b8c3403fc472  
-@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,299 16884,19 16968,2 16973,1815 18789,40 19120,86 19303 19314,76 19513,306 19846,103 20015 20028,186 20257,96  
-@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 16879,5 16903,65 19304,10 20016,12  
+Annotations: 0,21634 SHA-256 534ba60f5db21f6a69112b29d51a7c1d  
+@Nicole van der Hoeven <https\\\\\\\://nicolevanderhoeven.com>: 91,801 988,595 1626,496 2165,1368 3534,3 5219,314 5541,2951 9947,3 10011,541 10661,268 10939,1326 12266,2693 14975,2 14990,2 15023,2 15044,1526 16580,1556 18141,31 18211,16 18270,2 18275,1772 20048,40 20379,86 20562 20573,76 20772,306 21105,103 21274 21287,186 21516,96  
+@Nicole van der Hoeven <https\\\\\\\\\\\\\\\://nicolevanderhoeven.com>: 10929,10 16570,10 18136,5 18172,39 18227,43 20563,10 21275,12  
 @Radiohead: 14959,16 14977,13 14992,31 15025,19  
 ...
