@@ -95,6 +95,7 @@ There are three ways you can get updates about new chapters for review:
 - Creating high-effort content based on signals
 - Repurposing content to broaden your reach
 - What if no one's watching?
+- Batching, exploring overlaps between your interests
 - (videos, blog posts, larger development projects, songs, podcasts)
 
 ### Chapter 6. Tier 3: Automating your learning
