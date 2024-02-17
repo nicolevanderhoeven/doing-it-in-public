@@ -49,6 +49,7 @@ There are three ways you can get updates about new chapters for review:
 	- Continuous improvement in software development
 	- Agile and iterative, incremental work
 	- Learning sustainably
+	- The Cult of Done
 - Make it fun
 	- Cultivating playfulness and curiosity
 	- Learning useless things
