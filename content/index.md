@@ -28,13 +28,13 @@ In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024
 ![](https://www.youtube.com/watch?v=i-uNtkre1aE)
 
 ## Outline
-### [[Introduction]]
+### [[Introduction]] ([[Introduction|link]])
 - What is learning in public?
 - Why should you learn in public?
 - How do you learn in public?
 - How the rest of the book is laid out
 
-###  Chapter 1. The case for doing it in public
+###  [Chapter 1. The case for doing it in public](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md) ([link](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md))
 
 - Limiting beliefs that hold us back from making things
 - Open-sourcing knowledge: why open source still works
