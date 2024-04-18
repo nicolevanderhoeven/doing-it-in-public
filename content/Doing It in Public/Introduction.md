@@ -199,9 +199,27 @@ This book is divided into ten chapters:
 
 ### My story
 
+Through learning in public, I've been able to learn how to:
 
+- [speak](https://www.youtube.com/watch?v=Kdgu2gutp7o&list=PLDGkOdUX1UjoZvjegDEDFmn0LQGtpu9sn) [Spanish](https://nicolevanderhoeven.com/blog/20220421-que-es-k6/) [to a professional](https://nicolevanderhoeven.com/blog/20201216-cuando-jmeter-no-alcanza/) level despite [never having lived](https://nicolevanderhoeven.com/blog/20180828-mitad-de-alla/) in a [Spanish speaking country](https://www.youtube.com/watch?v=vFYAuu16Pg0)
+- [use new load testing tools](https://www.youtube.com/watch?v=zcYeboT5FYE&list=PLJdv3RhAQXNHsC8OOV3ZjwZvC9tRoAYF2) and write scripts in them in one week
+- [make and edit videos](https://youtube.com/@luckydippers) that sucked, and then gradually sucked less and less
+- become a Senior Developer Advocate without ever having been a developer
+- go from not knowing what chaos engineering is, to running experiments - and speaking about it
+- speak publicly at conferences
+- adapt when my company was acquired, by rapidly learning the acquiring company's stack of tools
+- jump into the highly technical field of software performance engineering, without ever having taken a computer science course
+- speak the language of countries I visit, to a casual conversation level, in a month or less
+- play and run new tabletop roleplaying game systems
+- create a successful course in two weeks
+- play new musical instruments like the kalimba, ocarina, and ukulele
+- figure skate competitively
+- ride a bike at age 29, and then do a 50km ride ride three months later
+- go from drowning in debt to becoming financially independent in five years
 
-That's the magic of doing it in public.
+... all before I felt I was ready. And I accomplished these things while having fun and making genuine connections with kind people.
+
+That's the magic of doing it in public. In this book, you'll learn how to use this magic, too.
 
 ---
 

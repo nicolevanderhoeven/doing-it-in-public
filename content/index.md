@@ -19,8 +19,11 @@ There are three ways you can get updates about new chapters for review:
 - Sign up for my newsletter, [Thinking in Public](https://tip.nicolevanderhoeven.com). I'll mention available chapters for review there.
 - Check [Changelog](Changelog.md) here for updates.
 
-## Outline
+In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024](https://pkmsummit.com) where I discussed some of the topics of this book as a way to get early feedback:
 
+![](https://www.youtube.com/watch?v=i-uNtkre1aE)
+
+## Outline
 ### [[Introduction]]
 - What is learning in public?
 - Why should you learn in public?

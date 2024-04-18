@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - Chapter 1 - The case for doing it in public
   sceneTemplate: system/templates/chapter.md
   ignoredFiles: []
 ---
