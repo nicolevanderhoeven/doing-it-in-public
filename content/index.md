@@ -36,13 +36,18 @@ In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024
 
 ###  [Chapter 1. The case for doing it in public](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md) ([link](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md))
 
-- Limiting beliefs that hold us back from making things
-- Open-sourcing knowledge: why open source still works
-- Accountability and precommitments
-- Authenticity by default, and ethical creativity
-- When you can show your work
-- The Observer Effect, and how to use it to your benefit
 - What is all this for?
+- To silence the voice of "not good enough"
+	- Imposter syndrome
+- To be ethically creative
+	- Authenticity by default
+- To open-source knowledge
+	- why open source still works
+- To hold yourself accountable
+	- Accountability and precommitments
+- To show your work
+- To git gud
+	- The Observer Effect, and how to use it to your benefit
 
 ### Chapter 2. Mindset
 
