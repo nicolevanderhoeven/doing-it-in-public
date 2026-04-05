@@ -145,11 +145,11 @@ Sections:
 
 The Tiers framework (0–4) structures this chapter. Each tier gets: what it looks like, what AI changes about it, and what PKM looks like at this level.
 
-**PKM thread:** At each tier, the PKM is the spine. Nick Milo's framing explicitly: *"take notes so that you can make notes."* AI handles the taking (capture, transcription, summarisation). You do the making (synthesis, connection, original thought). The distinction holds at every tier.
+**PKM thread:** At each tier, the PKM is the spine. Nick Milo's distinction (credited): *taking* notes vs. *making* notes. Taking notes is passive capture from sources. Making notes is active synthesis — your own thinking, connections, and original thought. The goal of the PKM is always to move from taking to making. This distinction runs through every tier.
 
 Sections:
 - **Tier 0 — Start before you're ready:** TILs, social posts. AI at Tier 0: use it to articulate what you already think, not to think for you. PKM at Tier 0: the daily note, the quick capture.
-- **Tier 1 — Build your system:** PKM, static site, version control for knowledge. "Write first, AI second." Taking notes vs. making notes (Nick Milo, credited).
+- **Tier 1 — Build your system:** PKM, static site, version control for knowledge. "Write first, AI second." Nick Milo's taking/making distinction: the PKM structures your capture so you can do the real work of synthesis.
 - **Tier 2 — Go deep:** Long-form essays, videos, talks. Your voice vs. AI polish. Using AI as editor, not author.
 - **Tier 3 — Automate the plumbing:** Pipelines that serve learning. What to automate (logistics, capture, summarisation) and what not to (synthesis, connection, original argument).
 - **Tier 4 — Build community:** The trust premium in an AI-saturated world. Authentic community is the scarcest resource.
@@ -173,7 +173,7 @@ Tool-agnostic at the principle level. Nicole's specific setup (Obsidian + Iris/O
 Sections:
 - Why setup matters (a beautiful philosophy without a working system is just procrastination)
 - The PKM layer: from capture to synthesis to publication
-- Taking notes to make notes (Nick Milo): AI handles the taking, you do the making
+- Taking notes vs. making notes (Nick Milo, credited): the PKM's job is to move you from passive capture to active synthesis
 - The AI layer: what tools, what access, what to protect
 - The observability layer: instrumentation, the garage door, public changelogs
 - The publishing layer: how to get your learning out
@@ -228,7 +228,7 @@ And an invitation: start before you're ready. Show your work. Keep the garage do
 
 2. **The Manifesto** — placed in Ch3. Nicole suggested "maybe both" (in-chapter AND as standalone artifact). Flagged for later.
 
-3. **Nick Milo credit** — currently "Nick Milo, credited" appears in Ch5 and Ch6 notes. The exact framing of the credit (footnote? in-text?) to be decided during writing.
+3. **Nick Milo credit** — his taking/making distinction is a PKM principle, not an AI one (corrected from v1 which misapplied it). Appears in Ch5 and Ch6 notes. Exact framing of credit (footnote? in-text?) to be decided during writing.
 
 4. **Nicole's specific setup** — appears as a worked example in Ch6. Decision needed: name the tools explicitly (Obsidian, Claude, OpenClaw) knowing they may date, or describe the principles and point to her website/blog for current tooling specifics?
 
