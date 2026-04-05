@@ -3,6 +3,12 @@ title: Introduction
 draft: false
 description: 
 tags:
+provenance:
+  intent_by: nicole
+  first_draft_by: nicole
+  current_draft_by: nicole
+  iris_contribution: "minor copy edits suggested; 2026 update notes in specs/chapters/introduction/intent.md"
+  nicole_contribution: "full original draft; all personal stories and arguments"
 ---
 
 [Back to outline](/#outline)
