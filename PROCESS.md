@@ -90,3 +90,19 @@ This book is about using AI to supplement your thinking, not supplant it. The wa
 If you're curious about what that actually looks like in practice — messy, iterative, sometimes Iris drafts something and Nicole throws it out, sometimes Nicole asks a question and Iris surfaces a vault note from three years ago that reframes the whole thing — you can read the process log and the specs. It's all here.
 
 *The garage door is up.*
+
+---
+
+## Branch and PR workflow
+
+All changes from Iris go through a pull request. Never directly to `v4`.
+
+**Iris's workflow:**
+1. Create a branch: `iris/<description>` (e.g., `iris/chapter-2-draft`, `iris/specs-update`)
+2. Commit with the appropriate tag (`[iris]`, `[process]`, etc.)
+3. Push the branch and open a PR
+4. Nicole reviews and merges
+
+Nicole can push directly to `v4` at any time.
+
+*Note: The initial process setup commit (2e965de) was pushed directly to v4 by mistake. All subsequent Iris commits will go through PRs.*
