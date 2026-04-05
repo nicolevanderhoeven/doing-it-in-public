@@ -105,4 +105,6 @@ All changes from Iris go through a pull request. Never directly to `v4`.
 
 Nicole can push directly to `v4` at any time.
 
-*Note: The initial process setup commit (2e965de) was pushed directly to v4 by mistake. All subsequent Iris commits will go through PRs.*
+**Exception: build-critical fixes** (broken YAML, workflow files, broken dependencies) may be pushed directly to `v4` without a PR when the site is actively broken and the change is trivially small. Nicole confirmed this on April 5, 2026.
+
+*Note: The initial process setup commit (2e965de) was pushed directly to v4 by mistake. Subsequent Iris commits go through PRs except for build-critical fixes as above.*
