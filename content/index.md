@@ -32,7 +32,7 @@ What to give feedback on: the structure of a chapter, whether something was uncl
 
 ---
 
-## Outline {#outline}
+## Outline
 
 *Note: chapters marked 🚧 are in progress. Chapters without a link aren't written yet.*
 
