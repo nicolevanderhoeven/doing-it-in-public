@@ -1,158 +1,87 @@
 ---
 title: Welcome to Doing It in Public
 ---
-I'm [Nicole van der Hoeven](https://nicolevanderhoeven.com), and *Doing It in Public* is a book I'm writing about learning in public: what it is, why you should do it, and practical instructions for how to do it. To keep up with the spirit of the book, I'm attempting to write the book itself in public. That means that depending on when you're reading this, you may still find the book in various stages of disarray. Be warned! Here be dragons.
+I'm [Nicole van der Hoeven](https://nicolevanderhoeven.com), and *Doing It in Public* is a book about learning in public: what it is, why it matters more than ever, and practical instructions for how to do it.
 
-Here's a video of me talking about the context behind this book and how I came up with the idea:
+I started writing this book in 2024. In 2026, I'm rewriting it — because AI changed the question.
 
-![](https://www.youtube.com/watch?v=MwNPY9DmQTY)
+AI can now write books, generate essays, compose music, and produce competent knowledge work in seconds. The question of whether it *can* do your thinking for you is settled. This book is about whether you *want* it to — and what you lose if you let it.
+
+The central argument: learning in public has never been more valuable than now, not despite AI, but *because* of it. When anyone can generate polished output instantly, the work that matters is the visible work: showing your reasoning, your process, your genuine confusion and hard-won understanding. That's what this book is about.
+
+I'm writing it in public to stay true to that argument.
+
+---
+
 ## Giving feedback
 
-A vital part of this process is getting (and responding to) feedback at every step. To facilitate this, here are the best ways you can give me feedback:
-- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head on over to the `#book-doing-it-in-public` channel to join the conversation.
-- [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub.
+A vital part of this process is getting feedback at every step:
+- Join [my Discord server](https://discord.gg/J8SeNYbzAF) and head to the `#book-doing-it-in-public` channel
+- [Raise an issue](https://github.com/nicolevanderhoeven/doing-it-in-public/issues/new) on GitHub
 
-What should you give feedback on? The structure of the book/chapter, whether something was unclear, ideas or suggestions for how I could improve it, new ideas you think I should consider... I'm open to everything related to the content.
+What to give feedback on: the structure of a chapter, whether something was unclear, ideas you think I should consider, arguments you think I'm getting wrong. I'm open to everything related to the content.
 
-*Please don't* give feedback on spelling and grammar. That'll all be sorted out during the proofreading later.
+*Please don't* give feedback on spelling and grammar — that's for later.
+
+---
 
 ## Getting updates
 
-There are three ways you can get updates about new chapters for review:
-- Join [my Discord server](https://discord.gg/J8SeNYbzAF). I'll post requests for reviews in the channel `#book-doing-it-in-public`.
-- Sign up for my newsletter, [Thinking in Public](https://tip.nicolevanderhoeven.com). I'll mention available chapters for review there.
-- Check [Changelog](Changelog.md) here for updates.
+- Join [my Discord server](https://discord.gg/J8SeNYbzAF) — I'll post when chapters are ready for review
+- Sign up for [Thinking in Public](https://tip.nicolevanderhoeven.com), my newsletter
 
-In the spirit of learning in public, here's a talk I did at the [PKM Summit 2024](https://pkmsummit.com) where I discussed some of the topics of this book as a way to get early feedback:
+---
 
-![](https://www.youtube.com/watch?v=i-uNtkre1aE)
+## Outline {#outline}
 
-## Outline
-### [[Introduction]] ([[Introduction|link]])
-- What is learning in public?
-- Why should you learn in public?
-- How do you learn in public?
-- How the rest of the book is laid out
+*Note: chapters marked 🚧 are in progress. Chapters without a link aren't written yet.*
 
-###  [Chapter 1. The case for doing it in public](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md) ([link](Chapter%201%20-%20The%20case%20for%20doing%20it%20in%20public.md))
+### [[Introduction]]
 
-- What is all this for?
-- To silence the voice of "not good enough"
-	- Imposter syndrome
-- To be ethically creative
-	- Authenticity by default
-- To open-source knowledge
-	- why open source still works
-- To hold yourself accountable
-	- Accountability and precommitments
-- To show your work
-- To git gud
-	- The Observer Effect, and how to use it to your benefit
+The story that started everything: learning Dutch, badly, in public. What learning in public actually is — and why AI makes the question of *why* so much more urgent.
 
-### Chapter 2. Mindset
+### Chapter 1: The Robots Are Writing Poetry 🚧
 
-- Make it observable
-	- Observability of complex distributed systems
-	- Prefer visible work
-	- Own what you make
-	- Lead and lag indicators
-- Make it continuous
-	- The convergence of code and speech
-	- Continuous improvement in software development
-	- Agile and iterative, incremental work
-	- Learning sustainably
-	- The Cult of Done
-- Make it fun
-	- Cultivating playfulness and curiosity
-	- Learning useless things
-	- Learning things you have no business learning
-	- How to learn hard things
-- Do it in a group
-	- Learn within communities
-	- Find an accountability group
-	- Get good at listening for signals
-	- Get good at asking for feedback and receiving it well
-	- Experiment
-- Make it intentional
-	- What are your exit criteria?
-	- How to get out of your own way
-	- Get clear about why you're doing this, and why you're not
-- The Manifesto for Learning in Public
+AI can do your knowledge work now. Write books. Generate essays. Compose music. Pass exams. The question isn't whether it can — that question is answered. This chapter asks: do you want it to? And what does it mean for learning when polished output is free?
 
-### Chapter 3. Tier 0: Microlearning
+Plus: why learning in public has always mattered — from Athenian oratory to open source — and why in the AI age, not showing your work has two new costs.
 
-- Building a foundation for learning in public
-- Starting before you're ready
-- What if it could be easy?
-- Social media
-- The life-changing magic of the daily `#TIL`
-- What if you don't know what you want to learn or write about?
-- Writing stuff down and publishing it
-- Commonplace books and resonance calendars
-- Arguments for plain text
-- Experimenting on different platforms
-- (social media, code, microblogging, taking notes)
-### Chapter 4. Tier 1: Systematising your learning
-- Turning notes into a Personal Knowledge Management system
-- Creating your own site
-- Version control and gitting gud
-	- How to keep some things private and some things public: information segmentation and regulation
-- How to organise your notes: namespaces, filenames
-- The value of a public changelog
-- Learning in public when you have attention deficit challenges
-- (PKM, static site generators, Git)
+### Chapter 2: Supplement, Not Supplant
 
-### Chapter 5. Tier 2: Longform learning
-- The value of failed experiments
-- Leaning into your unfair advantage
-- Creating high-effort content based on signals
-- Repurposing content to broaden your reach
-- What if no one's watching?
-- Batching, exploring overlaps between your interests
-- (videos, blog posts, larger development projects, songs, podcasts)
+The third way between boycott and surrender. Nicole's own AI journey — from "no AI ever touches my notes" to orchestrating three agents simultaneously from a ski mountain — and what she learned about the difference between AI that helps you think and AI that thinks for you.
 
-### Chapter 6. Tier 3: Automating your learning
-- Creating a content calendar
-- Deciding on publishing cadence, developing consistency
-- Scheduling posts and creating a buffer
-- Feedback triage and prioritising 
-- Building a CI/CD pipeline for learning
-- (content management, product management, processing pipeline, Zapier)
-### Chapter 7. Tier 4: Building a community
-- Creating strategic content
-- Cultivating ritual dissent
-- Helping others
-- Saying no
-- Making a living out of doing it in public
-- Finding your people through continuous learning
-- (communities, courses, conference talks, apps)
+The test isn't quantitative. It's about joy.
 
-### Chapter 8. Pitfalls in learning in public
+### Chapter 3: Mindset
 
-- Optimal quitting and exit criteria for learning in public
-- Art vs Exhibitionism
-- When is feedback noise? When you should stop caring what people think.
-- Oversharing and maintaining privacy (personal and professional)
-- One for you, one for them
+The five pillars of learning in public, updated for 2026: make it observable, make it continuous, make it fun, do it in a group, make it intentional. Each one is different when AI is in the room.
 
-### Chapter 9. When to learn in private
+Plus: the Manifesto for Learning in Public.
 
-- Strategic inauthenticity
-- Setting public boundaries
-	- Core principles
-	- Ethics statement
-	- Manifesto for posting online
-	- Automatic no list, automatic no reply list
-	- Defensive calendaring
-- Identifying distant mentors
-- The art of lurking
-- Steel-manning and the Hegelian Dialectic
-- Platonic forms and mental models
+### Chapter 4: The Observable Learner
 
-### Chapter 10. Conclusion: The cost of not doing it in public
+Observability — the ability to understand what's happening inside a complex system by examining its outputs — is a concept from software engineering. It's also the best frame I've found for thinking about learning.
 
-- Burnout and overwork
-- Cognitive dissonance
-- The Starving Artist mentality
-- Business/financial cost: having nothing to show for your work
-- Getting it wrong late - training the monkey first
+When AI is producing output alongside you, observability becomes a transparency layer for the collaboration. This chapter is about how to keep the visible record of your real thinking — not just your results.
+
+### Chapter 5: Show Your Work (Even With AI)
+
+The practical guide. A framework of five tiers — from "start before you're ready" to "build a community" — each one updated for what AI changes. Plus: the difference between taking notes and making notes, and why that distinction matters more now than ever.
+
+### Chapter 6: Building Your Stack
+
+How to actually set this up. The four layers of a learning-in-public system that incorporates AI without losing your own thinking: the PKM layer, the AI layer, the observability layer, and the publishing layer. Nicole's specific setup as a worked example — with the caveat that tools change and principles don't.
+
+### Chapter 7: Pitfalls
+
+What goes wrong. The original pitfalls of learning in public, updated with the ones AI specifically introduces: authenticity theater, the echo chamber, dependency, voice erosion, premature automation, and the PKM trap.
+
+### Chapter 8: When to Learn in Private
+
+The necessary flip side. Some things are worth doing without an audience. Some thoughts are yours to keep. Some learning requires genuine friction. This chapter isn't a retreat from the thesis — it's the honest completion of it.
+
+### Chapter 9: For the Love of Learning
+
+There is genuine, irreplaceable pleasure in understanding something new. In the specific click of an idea landing. In making something that came from your own curiosity, your own confusion, your own way of seeing. AI cannot take this from you. But you can give it away without noticing.
+
+An invitation: start before you're ready. Show your work. Keep the garage door up.
