@@ -1,5 +1,5 @@
 ---
-title: Chapter 6 - Tier 3: Automating your learning
+title: "Chapter 6 - Tier 3: Automating your learning"
 draft: true
 description: 
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Chapter 7 - Tier 4: Building a community
+title: "Chapter 7 - Tier 4: Building a community"
 draft: true
 description: 
 tags:

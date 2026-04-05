@@ -1,5 +1,5 @@
 ---
-title: Chapter 10 - Conclusion: The cost of not doing it in public
+title: "Chapter 10 - Conclusion: The cost of not doing it in public"
 draft: true
 description: 
 tags:
