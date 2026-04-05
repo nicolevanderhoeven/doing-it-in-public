@@ -1,200 +1,149 @@
-# Book Design: Proposed Outline (v2)
+# Book Design: Proposed Outline
 
 *Proposed by Iris | April 5, 2026*
-*Revised based on Nicole's feedback on v1*
+*Based on Nicole's intent (see `specs/book/intent.md`)*
 *Status: Awaiting Nicole's approval*
 
 ---
 
-## Changes from v1
+## Design rationale
 
-- **Ch1 + Ch2 combined** — "The Robots Are Writing Poetry" now carries both the disruption AND the original case for learning in public. Jumps straight into the meat.
-- **PKM added as a fourth pillar** — woven throughout, with a dedicated section in Ch3 and prominent presence in Ch4 (Tiers) and Ch5 (Stack).
-- **New Ch5: Building Your Stack** — a full practical implementation chapter added before Pitfalls. How to actually set all this up.
-- **Nick Milo credit added** — "take notes so that you can make notes" appears in the PKM section and is credited.
+The original 10-chapter outline was organised as a *how-to guide* with a complexity ladder (Tiers 0–4). That structure served a different book — a practical guide to learning in public. The new intent is an *argument with a practical core*: AI can do your knowledge work; should it?
 
-## The four pillars
+This redesign does three things:
 
-This book sits at the intersection of four things:
+1. **Leads with the disruption** — Chapter 1 earns the reader's attention by naming what changed and why it matters. The original book assumed you already believed in learning in public. This one has to make the case in an AI world first.
+2. **Foregrounds Nicole's distinctive angles** — the observability chapter (Ch5) is now a standalone, not a metaphor buried in a mindset chapter. It's her most unique contribution.
+3. **Collapses the Tiers into one practical chapter** — five chapters of tiers was too granular for the argument being made. The tiers become a framework within one chapter, not the skeleton of the whole book.
 
-```
-PKM  ×  Learning in public  ×  Observability  ×  AI
-```
+**Kept from original:** Introduction (updated), the core arguments for learning in public (reframed as Ch2), Mindset (Ch4, updated), Pitfalls (Ch7), When to Learn in Private (Ch8).
 
-Each chapter touches all four. No pillar is a chapter in isolation — they're woven throughout.
+**New:** Ch1 (the disruption), Ch3 (supplement not supplant), Ch5 (observability), Ch9 (the joy/conclusion).
 
 ---
 
-## Proposed structure (9 chapters + introduction)
-
-```
-Introduction
-Chapter 1  — The Robots Are Writing Poetry
-Chapter 2  — Supplement, Not Supplant
-Chapter 3  — Mindset
-Chapter 4  — The Observable Learner
-Chapter 5  — Show Your Work (Even With AI)
-Chapter 6  — Building Your Stack
-Chapter 7  — Pitfalls
-Chapter 8  — When to Learn in Private
-Chapter 9  — For the Love of Learning
-```
-
----
+## Proposed structure
 
 ### Introduction *(update existing)*
 
-**Keep:** The Dutch story. Non-negotiable.
+**Keep:** The Dutch story. It's still the perfect hook — personal, surprising, clear payoff.
 
-**Add:** A 2026 bookend — the moment Nicole realised AI could have learned Dutch for her (fed audio, generated responses, faked the fluency) and why doing it herself, in public, was the whole point. This plants the book's central question before the reader knows there's a thesis.
+**Add:** A 2026 bookend. The moment Nicole realised AI could have learned Dutch for her — fed her audio, generated responses, faked the fluency. And why doing it herself, publicly, was the whole point. This sets up the book's central tension before the reader knows there's a thesis.
 
-**Update:** "my husband" → "my partner". Refresh the skills list to include AI tools, Kubernetes, Grafana alongside the language/fitness examples.
-
-**PKM thread:** Establish early that the vault — the personal knowledge system — is where this all lives. Not just a note-taking app. A thinking system.
+**Update:** "my husband" → "my partner". Refresh the list of things Nicole has learned in public to include AI tools, Kubernetes, Grafana.
 
 ---
 
-### Chapter 1: The Robots Are Writing Poetry *(combined disruption + case)*
+### Chapter 1: The Robots Are Writing Poetry *(new)*
 
-**The question.** This chapter earns the reader's attention by naming what changed and making the case simultaneously — no warmup.
+**The disruption.** The book opens by naming what actually changed.
 
-The tweet: *"A future where robots paint and write poetry while humans do menial tasks is not the future I signed up for."* The inverted dystopia. We were worried about factory jobs. We should have been thinking about the creative ones.
+The tweet: *"A future where robots paint and write poetry while humans do menial tasks is not the future I signed up for."* This inverts the expected AI dystopia — we were supposed to be worried about machines taking our factory jobs, not our creative ones.
 
-AI can now: write books, compose music, generate images, write code, synthesise research, hold nuanced conversations, and produce competent creative work in seconds. The question of whether it *can* do our knowledge work is answered. The question this book asks is: **do we want it to?**
-
-Then — without pausing — the case: we've always needed to show our work. The Greeks. Accountability. The feedback loop. Community. Learning in public was the right way to learn before AI; AI makes it *necessary*. The output alone has never been enough. Now it's not even interesting.
-
-**PKM introduced here:** The personal knowledge system as the place where learning lives — the difference between collecting information (which AI does brilliantly) and building knowledge (which requires you).
+AI can now: write books, compose music, generate images, write code, hold conversations, synthesise research, and produce competent creative work in seconds. The question of whether it *can* do our knowledge work for us is answered. The question this book asks is different: **do we want it to?**
 
 Sections:
-- The tweet and what it inverts
-- What AI can actually do now (honest, not hype, not doom)
-- The difference between output and knowledge
-- The ancient case: the Athenians, oratory as thinking
-- Learning in public: accountability, feedback, community, impostor syndrome
-- Why output alone is no longer enough — and what that means
+- What AI can actually do now (concrete, honest, not hype or doom)
+- The difference between *having the output* and *having the knowledge*
+- Why this matters beyond career risk — what we lose if we stop learning ourselves
+- The choice: not boycott, not surrender — something more interesting
 
 ---
 
-### Chapter 2: Supplement, Not Supplant *(new)*
+### Chapter 2: The Case for Learning in Public *(from original — reframed)*
+
+**Why learning in public has always been the answer** — and why it's even more so now.
+
+This chapter carries the core arguments from the original book: the Greeks, accountability, impostor syndrome, the feedback loop, community and scenius. These arguments don't need to change; they need to be framed as the foundation for the AI argument. Learning in public isn't a nice idea that became urgent. It was always the right way to learn — AI just made it *necessary*.
+
+Sections:
+- The ancient case: the Athenians knew something we forgot
+- Learning in the open makes you faster, more honest, and more connected
+- The accountability effect: why witnesses matter
+- Show your work: Austin Kleon's insight, updated for 2026
+- Why output alone has never been enough
+
+---
+
+### Chapter 3: Supplement, Not Supplant *(new)*
 
 **The third way.** Not boycott, not surrender.
 
-Nicole's AI journey, honestly told: "no AI ever touches my vault" → pasting into ChatGPT → giving Iris access to 13,000 notes → orchestrating three agents simultaneously on a ski mountain in BC, thinking *what is this life?*
+This is where Nicole's own AI journey lives: from "no AI ever touches my vault" to pasting into ChatGPT to giving Iris access to 13,000 notes. The honest progression. And what she learned along the way about where AI helps and where it hurts.
 
-"Being used by AI" is real and subtle. It looks like your voice gradually sounding like everyone else's because you're all prompting the same model. It looks like forgetting how to start a blank page. It looks like publishing AI-generated "insights" and calling it learning.
-
-The test: can you explain it? Could you have gotten there eventually? Is the reasoning yours?
-
-**PKM thread:** The PKM is where the line between AI assistance and AI replacement is most visible. If AI is writing your notes, whose thinking is in the vault?
+"Being used by AI" is real and subtle. It looks like: your voice gradually sounding like everyone else's because you're all prompting the same model. It looks like forgetting how to start a blank page without a prompt to react to. It looks like publishing AI-generated "insights" and calling it learning.
 
 Sections:
-- Nicole's AI progression, honestly told
-- What "being used by AI" actually looks like
-- The homogenisation risk
-- The feedback loop: AI reflects your notes back at you; is that still thinking?
-- The test for intentional AI use
-- PKM and the attribution question: whose thinking is in the vault?
+- Nicole's AI journey, honestly told
+- What "being used by AI" actually looks like (dependency, voice erosion, the feedback loop, homogenisation)
+- The test: can you explain it? Could you have gotten there eventually? Is the reasoning yours?
+- Practical principles for intentional AI use
+- AI as a thinking partner, not a thinking replacement
 
 ---
 
-### Chapter 3: Mindset *(from original Ch2 — updated)*
+### Chapter 4: Mindset *(from original Ch2 — updated)*
 
-**How to think about learning in public.** The five pillars, each with an AI dimension. Plus the Manifesto.
-
-This chapter is the philosophical foundation before the practical chapters. The original five pillars hold up: observable, continuous, fun, communal, intentional. Each gets an AI update and a PKM dimension.
-
-**PKM thread:** PKM as the practice of making thinking observable (pillar 1), continuous (pillar 2), and intentional (pillar 5). The vault as the infrastructure of all the pillars.
-
-**The Manifesto for Learning in Public** — written here as a real artifact. Something a reader can put on their wall. Something this book stands behind.
+**How to think about learning in public.** The original five pillars hold up: make it observable, continuous, fun, communal, intentional. This chapter updates each with an AI dimension and delivers the Manifesto for Learning in Public as a real, quotable artifact.
 
 Sections:
-- Make it observable (PKM + AI observability tools; but observation ≠ understanding)
+- Make it observable (now includes: observable *to yourself* via AI tools, but see Ch5 for depth)
 - Make it continuous (AI can automate parts of the pipeline — not the thinking)
-- Make it fun (AI removes friction; don't let it remove the productive struggle)
-- Do it in a group (AI can simulate community; it cannot replace it)
+- Make it fun (AI removes friction — don't let it remove the productive struggle)
+- Do it in a group (AI can simulate community; it can't replace it)
 - Make it intentional (exit criteria matter more when AI will generate forever)
-- **The Manifesto for Learning in Public** ← written out in full
+- **The Manifesto for Learning in Public** ← written out in full here as a real artifact
 
 ---
 
-### Chapter 4: The Observable Learner *(new — Nicole's signature chapter)*
+### Chapter 5: The Observable Learner *(new — Nicole's signature chapter)*
 
 **Observability applied to learning.** The most distinctive chapter in the book.
 
-Observability — the ability to understand what's happening inside a complex system by examining its outputs — is Nicole's native lens from DevOps. A learning process has the same black box problem as a distributed system: if you only see the output (the finished essay, the passed exam), you can't tell if learning actually happened.
+Nicole comes from DevOps and systems engineering. Observability — the ability to understand what's happening inside a complex system by examining its outputs — is her native lens. This chapter applies it to the human learner, and especially to the human+AI learning system.
 
-When AI is involved, observability becomes a transparency layer for the collaboration. How do you tell which thinking was yours and which was the model's? The garage door: default to open, so your real brain work — not just your AI output — is traceable.
+In distributed systems, observability solves the black box problem: you can't inspect every internal state, so you instrument the system to emit signals you can measure. A learning process has the same problem. If you only see the output — the finished essay, the completed course, the passed exam — you can't tell if learning actually happened. Observability means making the *process* visible: the questions, the wrong turns, the moments of confusion and clarity.
 
-**PKM thread:** The vault is the instrumentation layer. The personal knowledge system, made public (in part), is how the observable learner makes their thinking traceable. "Do Androids Dream of Second Brains?" — the PKM Summit talk material lives here.
+When AI is involved, observability becomes a transparency layer for the collaboration itself. How can you tell which thinking was yours and which was the model's? The garage door metaphor: default to open, so your real brain work — not just your AI output — is traceable.
 
 Sections:
-- The black box problem in distributed systems
-- Learning as a complex system: why output doesn't prove learning
+- Observability in distributed systems: the black box problem
+- Learning as a complex system: why output alone doesn't tell you if it worked
 - Instrumenting your learning: what signals matter?
 - The garage door: defaulting to visible
 - Human + AI observability: making the collaboration traceable
-- The PKM as instrumentation: your vault as the record of real thinking
-- "Do Androids Dream of Second Brains?" applied to learning
+- "Do Androids Dream of Second Brains?" — the PKM Summit talk's core question applied here
+- Practical: what observable learning actually looks like (vault notes, commit history, public logs, this book)
 
 ---
 
-### Chapter 5: Show Your Work (Even With AI) *(consolidated Tiers)*
+### Chapter 6: Show Your Work (Even With AI) *(consolidated Tiers)*
 
 **The practical guide.** How to actually do this, at whatever level you're at.
 
-The Tiers framework (0–4) structures this chapter. Each tier gets: what it looks like, what AI changes about it, and what PKM looks like at this level.
-
-**PKM thread:** At each tier, the PKM is the spine. Nick Milo's distinction (credited): *taking* notes vs. *making* notes. Taking notes is passive capture from sources. Making notes is active synthesis — your own thinking, connections, and original thought. The goal of the PKM is always to move from taking to making. This distinction runs through every tier.
+The original Tiers structure (0–4) is preserved here as a framework, not a chapter structure. The Tiers give readers a sense of scale and progression without demanding five separate chapters.
 
 Sections:
-- **Tier 0 — Start before you're ready:** TILs, social posts. AI at Tier 0: use it to articulate what you already think, not to think for you. PKM at Tier 0: the daily note, the quick capture.
-- **Tier 1 — Build your system:** PKM, static site, version control for knowledge. "Write first, AI second." Nick Milo's taking/making distinction: the PKM structures your capture so you can do the real work of synthesis.
+- **Tier 0 — Start before you're ready:** TILs, social posts, the daily dispatch. What authentic microlearning looks like with AI (using AI to clarify what you already think, not to think for you).
+- **Tier 1 — Build your system:** PKM, static site, version control for knowledge. AI-augmented PKM: the "write first, AI second" rule.
 - **Tier 2 — Go deep:** Long-form essays, videos, talks. Your voice vs. AI polish. Using AI as editor, not author.
-- **Tier 3 — Automate the plumbing:** Pipelines that serve learning. What to automate (logistics, capture, summarisation) and what not to (synthesis, connection, original argument).
-- **Tier 4 — Build community:** The trust premium in an AI-saturated world. Authentic community is the scarcest resource.
-
----
-
-### Chapter 6: Building Your Stack *(new — practical implementation)*
-
-**How to actually set this up.** The most practical chapter in the book.
-
-Nicole's criticism of most books in this space: they tell you what to do but not how to do it. This chapter is unambiguously about setup — the tools, workflows, and architecture of a learning-in-public system that incorporates AI and observability without losing your own thinking.
-
-Tool-agnostic at the principle level. Nicole's specific setup (Obsidian + Iris/OpenClaw + publishing pipeline) as the worked example — with an explicit note that tools change and the principles are what matter.
-
-**The four pillars in practice:**
-- **PKM layer:** Note-taking system, linking structure, what to make public vs. keep private. AI for capture; you for synthesis.
-- **AI layer:** What kinds of AI tools belong where. What AI should and shouldn't touch in your system. Sandboxing and access tiers.
-- **Observability layer:** How to make your learning process visible — commit history, public changelogs, the process log. What to instrument.
-- **Publishing layer:** Getting your learning out into the world. Static sites, Git, version control. The automated pipeline from private → public.
-
-Sections:
-- Why setup matters (a beautiful philosophy without a working system is just procrastination)
-- The PKM layer: from capture to synthesis to publication
-- Taking notes vs. making notes (Nick Milo, credited): the PKM's job is to move you from passive capture to active synthesis
-- The AI layer: what tools, what access, what to protect
-- The observability layer: instrumentation, the garage door, public changelogs
-- The publishing layer: how to get your learning out
-- Nicole's specific setup as a worked example
-- Principles that will outlast the tools
+- **Tier 3 — Automate the plumbing:** Pipelines that serve your learning. What to automate (logistics) and what not to (thinking). Nicole's stack as a demonstration.
+- **Tier 4 — Build community:** In an AI-saturated world, authentic community is the scarcest resource. The trust premium.
 
 ---
 
 ### Chapter 7: Pitfalls *(from original Ch8 — expanded)*
 
-**What goes wrong.** The honest chapter.
+**What goes wrong.** The original pitfalls updated with AI-specific failure modes.
 
-Original pitfalls updated with AI-specific failure modes.
+**Original pitfalls:** optimal quitting, art vs. exhibitionism, feedback noise, oversharing.
 
-AI-specific pitfalls:
-- *Authenticity theater* — performing learning in public without doing the actual learning
-- *The echo chamber* — AI reflects your beliefs back; your second brain becomes a hall of mirrors
-- *Dependency* — mistaking frictionlessness for understanding
-- *Voice erosion* — gradual homogenisation from prompting the same models
-- *Premature automation* — automating the pipeline before understanding what you're learning
-- *The PKM trap* — a perfectly organised vault full of captured AI summaries that contain none of your own thinking
+**New AI-specific pitfalls:**
+- *Authenticity theater* — performing learning in public (posting AI-generated "insights") without doing the actual learning
+- *The echo chamber* — AI trained on your notes reflects your beliefs back; your second brain becomes a hall of mirrors
+- *Dependency* — you stop being able to think without AI; you mistake frictionlessness for understanding
+- *Voice erosion* — gradual homogenisation; you start to sound like everyone else
+- *Premature automation* — automating your pipeline before you understand what you're trying to learn
 
 ---
 
@@ -202,50 +151,50 @@ AI-specific pitfalls:
 
 **The necessary flip side.** When to close the garage door.
 
-Some learning requires friction. Some things are worth doing slowly. Some thoughts are yours to keep. This chapter isn't a retreat from the thesis — it's the honest completion of it.
+Some learning requires friction. Some things are worth doing slowly. Some thoughts are yours to keep. This chapter isn't a retreat from the book's thesis — it's the honest completion of it. Learning in public isn't everything, always. Knowing when NOT to is part of the discipline.
 
-**AI addition:** When to turn off AI entirely. The things worth doing without it: developing your voice, forming opinions, sitting with confusion until you understand something. AI privacy: what data you're giving away; how to tier your access.
-
-**PKM addition:** The private vault. Not everything needs to be public, even in a PKM that's partially open. The distinction between thinking privately and publishing publicly.
+Updated sections:
+- Strategic inauthenticity: when being private is the right call
+- When to turn off AI entirely (language learning, developing your voice, sitting with confusion)
+- AI privacy: what data you're actually giving away; how to tier your AI access
+- The things worth doing in the dark: forming opinions, making mistakes quietly, thinking for yourself
 
 ---
 
 ### Chapter 9: For the Love of Learning *(new conclusion)*
 
-**The joy.** Not a warning. An invitation.
+**The joy.** This isn't just about career protection or AI ethics.
 
-There is genuine, irreplaceable pleasure in understanding something new. In the specific click of an idea landing. In making something that came from your own confusion, your own curiosity, your own way of seeing. AI cannot take this from you. But you can give it away without noticing.
+The book ends not with a warning but with an invitation. There is genuine, irreplaceable pleasure in understanding something new. In the specific click of an idea landing. In making something that came from your own confusion, your own curiosity, your own particular way of seeing. AI cannot take this from you. But you can give it away without noticing.
 
-The final chapter is a celebration — of the human learner in the AI age, of learning in public as a gift to your future self and to the people who come after you, of the strange joy of doing things where others can see.
-
-And an invitation: start before you're ready. Show your work. Keep the garage door up.
+The final chapter is a celebration — of learning for its own sake, of the human learner in the AI age, of the strange joy of doing things in public. And an invitation to start.
 
 ---
 
-## Open questions (v2)
+## Open questions (for discussion before Nicole writes)
 
-1. **Chapter 3 placement (Mindset)** — it currently sits between Supplement/Not Supplant and the Observable Learner. Some readers will want the practical stuff sooner and may find two philosophical chapters back-to-back slow. Worth watching.
+1. **Should Ch1 and Ch2 be combined?** The disruption (Ch1) and the original case for learning in public (Ch2) could be one chapter. Splitting them gives each room to breathe, but risks the reader waiting two chapters before the book's specific argument arrives.
 
-2. **The Manifesto** — placed in Ch3. Nicole suggested "maybe both" (in-chapter AND as standalone artifact). Flagged for later.
+2. **Is "The Robots Are Writing Poetry" the right chapter title for Ch1?** It's evocative and the tweet is real, but worth confirming Nicole likes this as the opening frame.
 
-3. **Nick Milo credit** — his taking/making distinction is a PKM principle, not an AI one (corrected from v1 which misapplied it). Appears in Ch5 and Ch6 notes. Exact framing of credit (footnote? in-text?) to be decided during writing.
+3. **Chapter 5 (Observability) placement** — it currently sits between Mindset and the practical Tiers chapter. Should it come earlier (as the philosophical framework) or later (as the practical layer on top of practice)?
 
-4. **Nicole's specific setup** — appears as a worked example in Ch6. Decision needed: name the tools explicitly (Obsidian, Claude, OpenClaw) knowing they may date, or describe the principles and point to her website/blog for current tooling specifics?
+4. **The Manifesto** — it's placed in Ch4 (Mindset). Should it be a standalone artifact in an appendix instead, something readers can pull out and keep?
 
-5. **Length balance** — Ch5 (Tiers) and Ch6 (Stack) may both run long. Watch whether they should be split further or whether the Tiers can be made tighter.
+5. **Should Nicole's specific AI setup (Iris, Obsidian, OpenClaw) appear explicitly?** It's her most credible demonstration of the thesis. But it may date the book quickly as tools change. Options: mention it explicitly as "here's what I use" with a note that tools change, or keep it abstract and point to the website/blog for current specifics.
 
 ---
 
-## What this outline throws away from original
+## What this outline throws away
 
-- Five separate Tier chapters → one chapter (Ch5)
-- Summary conclusion → replaced by joy/invitation (Ch9)
-- The vague "Tier 0–4" as book skeleton → compressed into a single practical chapter
+- The five separate Tier chapters (collapsed into Ch6)
+- The original Chapter 1 title "The Case" (replaced by two stronger chapters)
+- The Conclusion as a summary chapter (replaced by a joy/invitation chapter)
 
 ## What it keeps
 
-- Introduction (Dutch story)
-- The original arguments for learning in public (reframed in Ch1)
-- Mindset chapter structure (updated in Ch3)
+- Introduction (Dutch story — too good to lose)
+- All the original arguments for learning in public (reframed in Ch2)
+- The Mindset chapter structure (updated in Ch4)
 - Pitfalls (updated in Ch7)
 - When to Learn in Private (updated in Ch8)
